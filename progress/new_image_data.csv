@@ -1,227 +1,493 @@
-Image_Name,Caption,Gender,Age,Height,Weight,BMI,BMI Classification with Gender
-image_1.jpg,F/21/5’2 “[210lbs>113= 97lbs] (16 months ),F,21,5’2,113.0,20.66774133548267,Normal weight
-image_2.jpg,F/25/5’7” [267lbs > 159lbs = 108lbs] (2018-2024),F,25,5’7”,159.0,31.052214437762206,Obese
-image_3.jpg,M/31/5'10 [278lbs > 198lbs = 80 pounds lost] 7 months.,M,31,5'10,198.0,28.409727186801312,Overweight
-image_4.jpg,F/28/5’4”[208lbs>153lbs=55lbs] (8 months),F,28,5’4”,153.0,29.880432760865517,Overweight
-image_5.jpg,F/38/5’5” [303 > 138 = 165] (3 years) I’ve been having some body issues lately…,F,38,5’5”,138.0,26.9509785686238,Overweight
-image_6.jpg,"F/32/5'8[438>307=131] 2 years. Calorie counting, exercise, no surgery. First year dropped 90 lbs second year dropped 40 and started recomping",F,32,5'8,307.0,46.678673201637075,Obese
-image_7.jpg,F/28/5’4”[208lbs>153lbs =55lbs](8 months),F,28,5’4”,153.0,29.880432760865517,Overweight
-image_8.jpg,"F/20/5'0"" [136lbs > 125lbs = 11 pounds lost] Slow cutting after the Bulk! Girls power",F,20,"5'0""",125.0,24.412118268680977,Normal weight
-image_9.jpg,F/32/179 cm [102 kg > 72 = 30 kg] (1 year),F,32,179,72.0,,Obese
-image_10.jpg,"F/33/5’4”[205>155=50] 6 months. 1200 calories a day, no alcohol, no exercise.",F,33,5’4”,155.0,30.271026653164412,Obese
-image_11.jpg,"F/22/5’6 [250lbs > 140lbs = 110lbs lost] been maintaining for about a year now, took me about a year to lose the weight but here we are! i’m still so proud of myself 🥺😭",F,22,5’6,140.0,22.59634087679562,Normal weight
-image_12.jpg,F/35/5’5 [331>180=151lbs](2yrs),F,35,5’5,180.0,29.95323576445969,Obese
-image_13.jpg,"F/25/5'3"" [155lbs > 117lbs = 38lbs] march 2023 to now, 6 months heavy exercise 6 months none, gradual diet change to healthier eating, about to jump back into working out",F,25,"5'3""",117.0,20.72539020361488,Normal weight
-image_14.jpg,"F/28/5’9”[180lbs>174lbs =6lbs] Two months in, just trying to get sexier for the summer! (repost bec account got deleted)",F,28,5’9”,174.0,33.981668630003924,Obese
-image_15.jpg,"F/33/5’9” [235lbs > 215lbs = 20lbs ] (1 year). So I was struggling to see any difference in my weight loss until I put these two pictures together. Crazy how a small difference can drastically change how someone looks. It’s been slow going due to some meds, but a loss is a loss.",F,33,5’9”,215.0,41.98884342213128,Obese
-image_16.jpg,F/24/5’7” [200lbs >160lbs =40lbs lost] taking things day by day. These photos are about 2 years apart,F,24,5’7”,160.0,31.247511383911654,Obese
-image_17.jpg,F/22/5’8” [245lbs > 133lbs] weight loss progress!,F,22,5’8”,,,Obese
-image_18.jpg,"F/28/5'5"" [320lbs > 175lbs = 145lbs] pic 5ish years apart. Been working on body comp the last year or so. Who tf am I?",F,28,"5'5""",175.0,29.12120143766915,Overweight
-image_19.jpg,"F/38/5’11 [311 - 272 - 235 = -76] 2 years, same bathing suit. Halfway there!",F,38,5’11,,,Obese
-image_20.jpg,"M/29/5'10"" [285>155 = 130lbs] I made some significant face gains!",M,29,"5'10""",155.0,22.239937949263652,Normal weight
-image_21.jpg,"M/36/6'5""[300lbs>242lbs=58lbs] weight loss",M,36,"6'5""",242.0,28.696694128082132,Overweight
-image_22.jpg,F/30/5’6” [217 - 163 = 54] 1 yr,F,30,5’6”,,,Obese
-image_23.jpg,"M/21/6’2"" [160lbs > 250lbs = +90lbs] (4 years)",M,21,"6’2""",250.0,32.09774498438697,Obese
-image_24.jpg,"F/30/5'1"" [168Ibs > 144Ibs = 24Ibs] weight loss progress",F,30,"5'1""",,,Obese
-image_25.jpg,F/31/5’7” [205 ish > 150 = 55 pounds lost] Pictures taken over three years apart,F,31,5’7”,150.0,29.294541922417174,Overweight
-image_26.jpg,M/27/5’11” [202lbs > 181lbs = 21lbs] Weight Loss in 35 days,M,27,5’11”,181.0,35.34874725305006,Obese
-image_27.jpg,M/23/5’7’’ [156lbs > 160lbs = 4lbs] 4 months gym progress,M,23,5’7’’,160.0,25.059265088456662,Overweight
-image_28.jpg,M/24/5'6 [225 > 150 > 165 > 180 = 75lbs lost and 30lbs gained] 4 years ago I decided to change my life and make lifting weights my life. Now living my best life. Right 2 pics are at 180lbs at the end of my current bulk.,M,24,5'6,150.0,24.210365225138165,Normal weight
-image_29.jpg,M/22/6’2” [252lbs>196lbs =56lbs] finally starting to see some shape!,M,22,6’2”,196.0,26.58208433700818,Overweight
-image_30.jpg,"F/28/5’3” [120lbs > 125lbs = 5lbs gained] (2 months) Been focusing more on glutes lately, hoping for more volume and have been eating more regularly. Next focus will most likely be arms.",F,28,5’3”,125.0,24.412118268680977,Normal weight
-image_31.jpg,"F/33/5'4 [280>170=110] (4 years)  been maintaining for 1 year, 25 more to go!",F,33,5'4,170.0,29.180110118032736,Overweight
-image_32.jpg,M/24/5’9” [308>185=123] 4 years of pain and suffering paid off,M,24,5’9”,185.0,36.12993503764785,Obese
-image_33.jpg,"M/31/5'9"" [121 > 153 = 32] (5 years, 5 months) Not an overnight transformation, but have gone from no exercise to continually working to improve my fitness, and feel great for it.",M,31,"5'9""",153.0,22.593900008215893,Normal weight
-image_34.jpg,"F/31/5’2” [236>186=50lbs] (12 months) Lifting heavy, mostly consistently and eating consciously, prioritizing protein and veggies. I’m just trying to get strong and healthy, done trying to be the skinniest I can be.",F,31,5’2”,186.0,36.325231983797295,Obese
-image_35.jpg,F/25/5’2” [172lbs > 155lbs = 17lbs] (8 months) I’m just getting started but already feeling better,F,25,5’2”,155.0,30.271026653164412,Obese
-image_36.jpg,"M/32/6'1"" [97kg-90kg] (2 months) 55 days of killing myself to get into shape.",M,32,"6'1""",,,Obese
-image_37.jpg,F/30/5’7 [292-219=73lbs] (9 months) amazing what a good haircut can do 💇‍♀️,F,30,5’7,,,Obese
-image_38.jpg,M/37/6’1” [140lbs - 167lbs] (3yrs),M,37,6’1”,,,Obese
-image_39.jpg,"F/28/5'2"" [250>194=56] (4 years of yo-yoing) (The last place I posted this side by side people told me they couldn't tell any difference :c)",F,28,"5'2""",194.0,35.48267096534193,Obese
-image_40.jpg,"F/31/5'6"" [120lbs < 125lbs = 5lbs] Gym Progress",F,31,"5'6""",,,Obese
-image_41.jpg,"M/37/5'9"" [310lbs>200lbs=110lbs] (8 months) - Went sober and overhauled my diet. I feel like a new man!",M,37,"5'9""",200.0,29.534509814661302,Overweight
-image_42.jpg,M/26/6’0 [125-180] (4 years) Gym Progress,M,26,6’0,,,Obese
-image_43.jpg,"F/27/5'4"" [247lbs>199lbs=48lbs] (13 months) You were so kind about my face gains yesterday - here's my body progress. Still a long way to go, but feel so much better.",F,27,"5'4""",199.0,34.15789360875597,Obese
-image_44.jpg,"F/28/5'5"" [250lbs>219lbs=31lbs] (80 days) Feeling like my stomach and double chin will never shrink :(",F,28,"5'5""",219.0,36.44310351342596,Obese
-image_45.jpg,"M/36/5’10” [238 > 207.5 = 27.5] (2 months) SW(Last photo): 238 GW: ~175 or 180 (in compare photos left is 218lbs on Feb 2nd, right is 208lbs on Feb 18th)",M,36,5’10”,,,Obese
-image_46.jpg,F/29/5’8” [355 lbs >215 lbs = 140 lbs](~2 years) hit 140 lbs down during my birthday week!!,F,29,5’8”,215.0,41.98884342213128,Obese
-image_47.jpg,M/35/5’11” [221<210=11lbs] (11 weeks),M,35,5’11”,,,Obese
-image_48.jpg,F/21/5’4 [140 > 122 = 18 lbs] feeling better than ever!,F,21,5’4,122.0,20.941020202352902,Normal weight
-image_49.jpg,"F/19/5'3""[108>135 = 27lb gained] Been on a weight gain journey for about a year now, first pic I took at the start of 2023 the second pic was taken few days ago. I can say I am happy with my progress and feel alot more confident! To all of you on the same journy you can do it😆🥰 Please be nice btw🥺😂",F,19,"5'3""",135.0,23.913911773401782,Normal weight
-image_50.jpg,F/28/5’9” [202lbs > 169lbs = 33lbs] (almost at 1 year progress) body recomposition gained a lot of muscle and feeling so much stronger! 👊🏻,F,28,5’9”,169.0,33.005183899256686,Obese
-image_51.jpg,"M/29/5'11 [242 lbs>211lbs= 31lbs] Same shirt, 6 months apart",M,29,5'11,211.0,29.428200812362746,Overweight
-image_52.jpg,M/39/5’8 [415lbs > 215lbs = -200 lbs] Had issues with original account but im back! 10 year gap between pics but feeling younger and more alive.,M,39,5’8,215.0,32.690276020690455,Obese
-image_53.jpg,F/31/5’7 [393-250= 143 lbs down] (19-20ish months I honestly have lost track) Still have a way to go. Lost almost all of it naturally just started semiglutide a few weeks ago. Happy with who I was excited for who I’m becoming ☺️☺️,F,31,5’7,,,Obese
-image_54.jpg,F/28/5’7” [228lbs > 147lbs = 81lbs] Weight loss progress,F,28,5’7”,147.0,28.708651083968828,Overweight
-image_55.jpg,M/35/6'1 [205lbs > 225lbs = 20lbs] (3 years at the gym),M,35,6'1,225.0,29.684842631085154,Overweight
-image_56.jpg,F/27/5’6” [189lbs>153lbs=36lbs] Reached a huge milestone the other day. I’m no longer overweight!,F,27,5’6”,153.0,29.880432760865517,Overweight
-image_57.jpg,"M/25/5’10” [200 > 182.7 = 17.3] Goal weight 155. Is it over, or will my face get more defined/attractive?",M,25,5’10”,,,Obese
-image_58.jpg,"M/24/6'0"" [360lbs > 255lbs = 105lbs](13 months) I told myself I'd post progress pics once I cleared 100lbs, so here we are!",M,24,"6'0""",255.0,34.58383421396472,Obese
-image_59.jpg,"F/27/5'4"" [247lbs>199lbs=48lbs] About halfway to my GW, but I'm so surprised at how much it has changed my face and all over glow already!",F,27,"5'4""",199.0,34.15789360875597,Obese
-image_60.jpg,M/35/6’ [403lbs>248lbs=155lbs] More to go but feeling great. Can really see it in my face,M,35,6’,248.0,33.63447405907157,Obese
-image_61.jpg,F/23/5’3” [148lbs > 127.2lbs?] 1 year face gains !,F,23,5’3”,,,Obese
-image_62.jpg,"M/33/5’11” [195 > 195 = 0] (6 months) Different lighting, different angle, post-lift pump, etc. I still can’t believe the change I’ve made to my physique in such a short time.",M,33,5’11”,195.0,38.08290449914233,Obese
-image_63.jpg,F/19/5’3 [147>127lbs=20lbs] Found this picture from 8 months ago in my black hair era!,F,19,5’3,127.0,22.496791075718715,Normal weight
-image_64.jpg,F/20/5’7 [145>120=-25lbs] My legs before and after starting to run 5-6 miles daily,F,20,5’7,120.0,18.794448816342495,Normal weight
-image_65.jpg,"M/25/6'1"" [350lbs > 175lbs = -175lbs] 36+ months. Feeling good!",M,25,"6'1""",175.0,23.088210935288455,Normal weight
-image_66.jpg,F/25/5’10” [265lbs >211lbs =54lbs lost] More fat to go and muscle to gain but I'm shocked at the 5 year difference!,F,25,5’10”,211.0,41.20765563753349,Obese
-image_67.jpg,F/63/5’4”[223>155=68lbs] Exactly two years apart on my birthday. If I can do it so can you!,F,63,5’4”,155.0,30.271026653164412,Obese
-image_68.jpg,"F/35/4'11"" [260+ lbs > 200lbs = 60lbs] (9 months) Grief (and sobriety and CICO) does a thing",F,35,"4'11""",200.0,40.39465706050057,Obese
-image_69.jpg,M/32/5’10” [254lbs>184lbs=70lbs] one moment of embarrassment forced change,M,32,5’10”,184.0,35.9346380914984,Obese
-image_70.jpg,F/31/5’1” [108lbs > 135lbs = 27lbs] (6+ years) So stoked on the person I’ve become. My mental strength gainz have allowed me to better support my loved ones and myself 💪🏻,F,31,5’1”,135.0,26.36508773017546,Overweight
-image_71.jpg,"M/30/5’5” [227>169=58lbs] (36 months) Long journey, but feeling myself again",M,30,5’5”,169.0,33.005183899256686,Obese
-image_72.jpg,F/26/5'10 [317-241] 76 Ibs. 7 months.,F,26,5'10,,,Obese
-image_73.jpg,F/24/5’7” [200lbs >160lbs =40lbs lost] not where I want to be but not where I was before. Same shorts of course.,F,24,5’7”,160.0,31.247511383911654,Obese
-image_74.jpg,M/21/5’10 [310–>170] (16 months) From the lowest point of my life to the best I’ve ever felt in my life. Don’t even recognize the guy on the left anymore.,M,21,5’10,,,Obese
-image_75.jpg,M/26/5'5 [130lbs > 185lbs = 50lbs] weight gain progress,M,26,5'5,185.0,30.78527009125024,Obese
-image_76.jpg,M/37/6'2 [450 < 365]  (18 months) NSV. Bought these pants to wear to interviews as I was changing careers. Now they fall off me.,M,37,6'2,,,Obese
-image_77.jpg,F/22/4'11 [120lbs > 105lbs] Face gains after 15lbs weight loss,F,22,4'11,,,Obese
-image_78.jpg,M/27/6'1 [375>265=110lb] (36 months) hit my 3 year weight loss landmark,M,27,6'1,265.0,34.96214798772252,Obese
-image_79.jpg,F/24/5’6 [176lbs>148lbs] 06 months into pilates,F,24,5’6,,,Obese
-image_80.jpg,M/20/6’1” [159lbs > 228lbs = 70lbs] Weight gain progress,M,20,6’1”,228.0,30.922016473662577,Obese
-image_81.jpg,"X/31/5'1"" [191lbs > 181lbs = 20lbs] (12 months) Lotta stagnation this year, but pleasantly surprised to see progress!",X,31,"5'1""",181.0,34.19927173098098,
-image_82.jpg,F/28/5’6 [330>150=180] (48 months) I am posting this for inspiration. You can do this!,F,28,5’6,150.0,24.210365225138165,Normal weight
-image_83.jpg,F/24/5’8 [126lb > 128lb] 7 week glute progress,F,24,5’8,,,Obese
-image_84.jpg,F/30/5'8 [202>146=56] (8 months) Feb 2023 vs Feb 2024! Maintained since October. Now ready for recomp!,F,30,5'8,146.0,22.198978134980493,Normal weight
-image_85.jpg,M/32/5’6” [160 lbs < 170 lbs] (2 years) we still growing.,M,32,5’6”,,,Obese
-image_86.jpg,"F/32/5'5"" [228lbs > 197lbs = -31lbs] Hello, onederland!",F,32,"5'5""",197.0,32.782152475547555,Obese
-image_87.jpg,"F/29/5'3"" [167lbs > 137.8lbs = 29.2lbs] Weight loss progress",F,29,"5'3""",,,Obese
-image_88.jpg,F/29/5’3” [182>130=52lbs] ~2 years of low n slow progress 😎,F,29,5’3”,130.0,25.38860299942822,Overweight
-image_89.jpg,M/25/5’8 [108 KG > 80 KG = 28 KG] (7 months) Keto diet + gym + cardio,M,25,5’8,80.0,12.163823635605752,Underweight
-image_90.jpg,F/49/5'7 [169<199 = 30 pounds] 6 months.  I just physically feel so much better all around!,F,49,5'7,,,Obese
-image_91.jpg,"F/28/5’2 [184 > 150 = 34 pounds lost] (six months) 20 more until I’m back to my pre-injury weight, 30 until I hit my wedding goal",F,28,5’2,150.0,27.435054870109738,Overweight
-image_92.jpg,M/26/6’1” [350lbs > 175lbs = 175lbs] Some up and down progress over a few years,M,26,6’1”,175.0,23.734003872328735,Normal weight
-image_93.jpg,"M/20/6'3"" [213lbs 207lbs = 6lbs] (13 months) started cutting now",M,20,"6'3""",,,Obese
-image_94.jpg,M/18/6’2 [150 > 160 = 10 lbs gained] (5 months) Is this underwhelming progress for 5 months?,M,18,6’2,160.0,20.542556790007662,Normal weight
-image_95.jpg,F/34/5'3 [140# -> 140#] - do you see any changes?,F,34,5'3,,,Obese
-image_96.jpg,F/37/5’6” [347lbs > 132lbs = 215lbs] (8 years) Finally done trying to lose weight,F,37,5’6”,132.0,25.779196891727114,Overweight
-image_97.jpg,F/32/5’5” [116kg > 113kg] Progress after just a month of 1-2hrs of daily walks and basic weightlifting.,F,32,5’5”,,,Obese
-image_98.jpg,F/35/5’2 [151lbs > 122lbs = 29lbs lost] Weight Loss Progress,F,35,5’2,122.0,22.313844627689253,Normal weight
-image_99.jpg,M/42/6’1” [460lbs > 270lbs = 190lbs] (14 months) It’s been a journey…,M,42,6’1”,270.0,36.61817740302148,Obese
-image_100.jpg,M/25/6'1 [320>245=75 pounds] gathered up all my progress pics for this one. More info at bottom.,M,25,6'1,245.0,32.32349530940383,Obese
-image_101.jpg,F/31/5’5” [315lbs > 219lbs = 96 lbs lost] and not done yet!,F,31,5’5”,219.0,42.77003120672907,Obese
-image_102.jpg,F/30/5’5 [304lbs > 280lbs = 24lbs lost] (1.5 months) I don’t have anyone to share this with so I am posting here.,F,30,5’5,280.0,46.593922300270634,Obese
-image_103.jpg,M/22/5’7 [296 lbs- 249 lbs. -47 lbs] (5 months) mainly just diet changes up to this point. Looking to get in the gym and keep going!!,M,22,5’7,,,Obese
-image_104.jpg,"M/33/6’0” [230lbs > 188lbs = 42lbs] (10 months) Weightlifting and CICO is changing my life, and I’m not close to done.",M,33,6’0”,188.0,25.49710130284458,Overweight
-image_105.jpg,M/27/5’7 [285-175=110lbs] This month was the 2 year mark of many lifestyle changes. Thanks to this sub for all the inspiration,M,27,5’7,,,Obese
-image_106.jpg,"M/24/5'10"" [280 > 210 = 70lbs] (3 years) I feel reborn.",M,24,"5'10""",210.0,30.131528834486236,Obese
-image_107.jpg,"M/29/6'2"" [522 > 372 = 150 Lost] (2.5 years) Celebrated 150lbs lost this week, my facial change so far",M,29,"6'2""",372.0,47.76144453676782,Obese
-image_108.jpg,"M/22/5'5"" [80kg>70kg] (9 months) Face Gains",M,22,"5'5""",,,Obese
-image_109.jpg,"M/28/5'11"" [125lbs > 139lbs = 14lbs] weight gain feedback",M,28,"5'11""",139.0,19.386350298191573,Normal weight
-image_110.jpg,"M/25/170 [47kg > 76kg = 29kg] 5years of fighting against heavy depression and health problems (liver, heart, etc.). I did a lot of yo-yoing, but I finally managed to stabilize my weight and slowly appreciate my body. That was hard but i make it step by step",M,25,170,,,Obese
-image_111.jpg,F/31/5’2 [165 > 130 = 35 lbs] 8/9 yr journey,F,31,5’2,130.0,23.77704755409511,Normal weight
-image_112.jpg,M/17/5’9” [235lbs>165lbs = 70lbs] how puberty and weight loss changed my face,M,17,5’9”,165.0,32.223996114658895,Obese
-image_113.jpg,F/37/5'4 [275 > 175 = 100lbs] (48 months) I did this hard work. I don't think I'll ever be truly finished. But I'm proud of myself. Body pic in thread.,F,37,5'4,175.0,30.038348650916056,Obese
-image_114.jpg,F/26/5’6” [174.3 lbs > 153.9 lbs = 20.4 lbs pounds lost] It’s my birthday!,F,26,5’6”,,,Obese
-image_115.jpg,F/36/5’5 [225>165=60 pounds] (8 months) Feeling good today… 15 pounds away from “normal weight”,F,36,5’5,165.0,27.457132784088053,Overweight
-image_116.jpg,"M/25/5'9"" [132lbs > 171lbs = 39lbs] (72 months)",M,25,"5'9""",171.0,25.252005891535415,Overweight
-image_117.jpg,F/40/5’5 [150 - 170lbs] Visible progress despite major setbacks,F,40,5’5,,,Obese
-image_118.jpg,M/26/5’6” [183lbs > 160lbs = 23lbs] 1 year,M,26,5’6”,160.0,31.247511383911654,Obese
-image_119.jpg,"F/27/5’3” [109 > 174 > 120 = 55lbs] 15 months postpartum. My physique has definitely changed but I’m starting to better accept them. Honest thoughts please, should I continue to try to lean down or just work on growth? I miss my thin legs but I feel like it may be better for my butt?",F,27,5’3”,174.0,33.981668630003924,Obese
-image_120.jpg,F/34/5’1”[178lbs>143lbs=35lbs] I thought I would be miserable with how I looked for forever,F,34,5’1”,143.0,27.927463299371045,Overweight
-image_121.jpg,F/34/5'4 [216 > 160 =56lbs] (4 yrs) my shirt got bigger!,F,34,5'4,160.0,27.463633052266104,Overweight
-image_122.jpg,F/24/5’5” [225>153=72lb] (16ish months) Going from begrudgingly taking family pictures on my last vacay to asking for pictures on my most recent >>>,F,24,5’5”,153.0,29.880432760865517,Overweight
-image_123.jpg,M/21/5’8” [60>48kg] 8 months progress,M,21,5’8”,,,Obese
-image_124.jpg,"F/30/5'6"" [220 lbs > 140 lbs = 80lbs] 7/1/22-current",F,30,"5'6""",140.0,22.59634087679562,Normal weight
-image_125.jpg,M/23/6’1”[63kg(138lb) > 78kg (171lb) = 15kg (33lb) Gained] (2.5yrs),M,23,6’1”,,,Obese
-image_126.jpg,M/30/6’4” [266lbs > 215lbs = 51lbs] 50 lbs in 94 days! 8 inches off of waist size. Don’t hate too much in the comments!,M,30,6’4”,215.0,29.158919043146728,Overweight
-image_127.jpg,X/19/5’11” [320lbs > 265lbs = 55lbs] (12 months) Same hoodie different person,X,19,5’11”,265.0,51.753690729603676,
-image_128.jpg,F/27/5’10” [228lbs > 198lbs = 30lbs] Weight loss progress,F,27,5’10”,198.0,38.66879533759067,Obese
-image_129.jpg,"F/25/5'8"" [150lbs > 135lbs = 15lbs] Getting closer to my goal",F,25,"5'8""",135.0,20.526452385084706,Normal weight
-image_130.jpg,F/19/5’0” [132lbs > 99lbs = 33lbs] (1 year 3 months) Weight loss :D Recently started going to the gym,F,19,5’0”,99.0,19.334397668795337,Normal weight
-image_131.jpg,"M/21/5'7 [250lbs > 196lbs = 54lbs] (1.5yrs) Lost a lot of fat, gained more muscle. I still haven't reached my goal but I am so proud of myself for how far I've gotten.",M,21,5'7,196.0,30.69759973335941,Obese
-image_132.jpg,"F/30/5'9 [221lbs < 176lbs = 44lbs lost] (3.5 months) - Keto since november, omad(IF) since december and gym since 14.1.",F,30,5'9,,,Obese
-image_133.jpg,M/26/6’4[294lbs>248lbs=46 lbs] (1 year 2 months) - Started out with on and off IF/OMAD then I just fell in love with the gym and getting better along with calorie deficits the right way. Today marks 7 months of not missing the gym at all and I feel so motivated to achieve more! :),M,26,6’4,248.0,30.18717339373737,Obese
-image_134.jpg,F/24/5’5” [115lbs > 140lbs = 25lbs gained] (36 months) Fitness trainer,F,24,5’5”,140.0,27.341572460922695,Overweight
-image_135.jpg,F/33/5’6” [235lbs>217lbs= 18lbs] vegan since 1/10/24 started running 2/1/24,F,33,5’6”,217.0,42.37943731443018,Obese
-image_136.jpg,F/32/5’5” [162lbs > 117lbs] 9 months progress,F,32,5’5”,,,Obese
-image_137.jpg,M/18/5’8” [117 > 170 = 53 lbs] 1 Year weight gain progress,M,18,5’8”,170.0,33.20048084540613,Obese
-image_138.jpg,"F/32/5’6” [134lbs > 145lbs = 11lbs] a little over a year after increasing my gym regiment, especially over the last 3 months",F,32,5’6”,145.0,28.318057191669933,Overweight
-image_139.jpg,M/28/5’11 [115 lbs < 160 lbs = 45lbs] weight gain progress,M,28,5’11,,,Obese
-image_140.jpg,F/28/5’2 [231lbs > 136lbs = 95lbs] finally hit the 5 year maintained mark!,F,28,5’2,136.0,24.8744497488995,Normal weight
-image_141.jpg,M/30/5’10” [236lb>200lb>146lb] (11 months),M,30,5’10”,,,Obese
-image_142.jpg,M/32/6'3'' [435LBS > 213 = -222LBs] 💪💪,M,32,6'3'',213.0,26.62287969909273,Overweight
-image_143.jpg,"M/36/5'7"" [210 lbs > 180 lbs] Face gains from healthier lifestyle",M,36,"5'7""",180.0,28.191673224513742,Overweight
-image_144.jpg,M/26/6’0”[90kg>73kg=17kgs lost] last year’s progress,M,26,6’0”,,,Obese
-image_145.jpg,F/24/5’7” [260lbs > 196lbs = 64lbs] September 2023 v Now.,F,24,5’7”,196.0,38.27820144529178,Obese
-image_146.jpg,"F/60/5'1 [220lbs > 140lbs = 80lbs] (Decades, but most recently 5 months)...Almost there! My daughter told me to come here to find a weight loss community. Please excuse my very old ""before"" photo it's the best I could find.",F,60,5'1,140.0,26.45247537202949,Overweight
-image_147.jpg,"F/23/5'8"" [360lbs > 244lbs = 116lbs] (8 months) Valentines Day Update",F,23,"5'8""",244.0,37.09966208859754,Obese
-image_148.jpg,F/20/5’8 [167 lbs > 160 lbs = 7 lbs lost ] One year difference !,F,20,5’8,160.0,24.327647271211504,Normal weight
-image_149.jpg,F/31/5’6” [222 > 202=20 lbs] (3 months) I’m waiting til next week but I’m 197 now :’),F,31,5’6”,202.0,39.44998312218846,Obese
-image_150.jpg,F/20/5'7 [147lbs>121lbs=-26lbs] Leg progress!! Photos are exactly 1 year apart,F,20,5'7,121.0,18.95106922314535,Normal weight
-image_151.jpg,F/35/5’4” [214lbs>190lbs = 24lbs] One year ago vs Now,F,35,5’4”,190.0,37.106419768395085,Obese
-image_152.jpg,"F/31/5'7""[242>228= 14lbs] one month",F,31,"5'7""",228.0,35.70945275105075,Obese
-image_153.jpg,M/32/6’4” [285lbs > 240lbs = 45lbs] 15+ years lifting experience,M,32,6’4”,240.0,32.54949102490797,Obese
-image_154.jpg,M/39/5’8” [360>323= 37 lbs down] I didn’t notice face gains until recently,M,39,5’8”,323.0,63.08091360627164,Obese
-image_155.jpg,F/25/5'6 [240 > 233 = 7] (1.5 months),F,25,5'6,233.0,37.60676731638129,Obese
-image_156.jpg,F/22/5’5 [130<142] 2 year difference. Started Lifting more seriously,F,22,5’5,,,Obese
-image_157.jpg,F/35/5’9” [281lbs>180lbs=101lbs] Face gains,F,35,5’9”,180.0,35.15345030690061,Obese
-image_158.jpg,F/31/5’6” [212 > 202 = 10] (2 months diff),F,31,5’6”,202.0,39.44998312218846,Obese
-image_159.jpg,F/37/5’7” - [285lbs - 235lbs = 50] Face gains? My clothes are smaller. But I genuinely have trouble seeing a difference.,F,37,5’7”,,,Obese
-image_160.jpg,"M/35/5'11""[415lbs>215lbs=200lbs lost](9 years)",M,35,"5'11""",215.0,29.986081396483367,Obese
-image_161.jpg,F/19/5’5” [210lbs > 160lbs = 50lbs] (12 months) Also only been working out since June of 2023. also don’t know if the weights are right bc I don’t weigh in often.,F,19,5’5”,160.0,31.247511383911654,Obese
-image_162.jpg,F/26/5’6” [265>240=-25lbs] October 2022 to February 2024. it’s hard to see the difference all the time.,F,26,5’6”,240.0,46.87126707586748,Obese
-image_163.jpg,M/36/5’7” [308lbs > 278lbs = 30lbs] (27 months) FACE GAINS! I gotta do CICO because I am stuck for few months... but feel 10 years younger,M,36,5’7”,278.0,54.292551029546495,Obese
-image_164.jpg,F/26/5’3” [215-169lbs = 46lbs] I had to get the bridesmaid dress I ordered in November altered a little!,F,26,5’3”,,,Obese
-image_165.jpg,F/28/5’6” [230lb > 170 = 60 lb] 11 months! currently a full year into strength training getting back on track,F,28,5’6”,170.0,33.20048084540613,Obese
-image_166.jpg,F/31/5’4” [235 > 175= 60lbs] (15 months) updated face gainsss!,F,31,5’4”,175.0,34.17696557615337,Obese
-image_167.jpg,"F/44/5'5"" [242lbs - 210lbs = 32lbs] 1 year ago, I decided to make my health a priority ✌",F,44,"5'5""",,,Obese
-image_168.jpg,F/38/5’6 [242 > 148 = 94] 11 months,F,38,5’6,148.0,23.887560355469656,Normal weight
-image_169.jpg,F/23/5’2” [205lbs > 185lbs= 25lbs] progress Pics,F,23,5’2”,185.0,36.12993503764785,Obese
-image_170.jpg,F/23/5’2 [117 - 112 = 5 lbs (but not counting) ] 6 months of working that butt lift 😁,F,23,5’2,,,Obese
-image_171.jpg,"M/26/6’5” [285lbs - 255lbs = 30lbs] Started January 1 2024, weighed in today at 255, the goal is to get to 220 by May 24 for a Muay Thai provincial tournament",M,26,6’5”,,,Obese
-image_172.jpg,M/25/5’10” [300lbs > 195lbs= 105lbs] Weight loss progress,M,25,5’10”,195.0,38.08290449914233,Obese
-image_173.jpg,F/45/5'7” [182lbs > 145lbs = 37lbs] Weight loss progress and hair loss issue,F,45,5'7”,145.0,28.318057191669933,Overweight
-image_174.jpg,F/29/5’3”[275>226lbs=49lbs] (10months) The scale hasn’t moved in over a month 🙃,F,29,5’3”,226.0,44.13710982977521,Obese
-image_175.jpg,M/33/5’9” [180lbs - 175lbs - 215lbs] feeling good about myself 14 years later.,M,33,5’9”,,,Obese
-image_176.jpg,M/34/6'0[255lbs>235lbs=20lbs] Been feeling great lately.,M,34,6'0,235.0,31.871376628555726,Obese
-image_177.jpg,M/26/6’2’’ [385>273= 112 lost] (9 months) out of my comfort zone,M,26,6’2’’,273.0,35.05073752295058,Obese
-image_178.jpg,F/35/5’2” [285lbs > 175lbs = 110lbs] trying to motivate myself to keep going,F,35,5’2”,175.0,34.17696557615337,Obese
-image_179.jpg,M/25/180 [128kg > 105kg = 23 kg] 6 months progress and i'm pretty happy with it.,M,25,180,,,Obese
-image_180.jpg,F/34/5’ 6” [184>144 = 40lbs] never thought I would get here!,F,34,5’,144.0,28.122760245520492,Overweight
-image_181.jpg,F/28/5'6 [160 > 136 = 24] Progress so far. I would like to have some visible abs. Any advice is welcome!,F,28,5'6,136.0,21.950731137458604,Normal weight
-image_182.jpg,F/16/5’8[156lbs>135lbs=11lbs-6 months],F,16,5’8,135.0,20.526452385084706,Normal weight
-image_183.jpg,"F/32/5'9"" [348 > 283 = 65 lbs] Got to my HW in 6/2020. Yesterday, I did the zipline in Vegas because I'm under the weight limit of 300 lbs. So proud of how far I've come!",F,32,"5'9""",283.0,41.79133138774574,Obese
-image_184.jpg,F/32/5’9” [142lb > 142lb = 0lb] (10 months) Started working out regularly in 2023 and so stoked on my fitness progress!,F,32,5’9”,,,Obese
-image_185.jpg,M/23/5’9 [145lbs>161lbs = 16lbs gained] (2 months ),M,23,5’9,161.0,23.775280400802348,Normal weight
-image_186.jpg,F/21/5'4 [108lbs>122lbs] 3 years of glute gains. I used to get roasted for being an Asian girl with no butt. So this is proof that anything's possible when you work hard for it,F,21,5'4,,,Obese
-image_187.jpg,M/19/5'10 [290 > 170] (1.5 years) he'd be proud,M,19,5'10,,,Obese
-image_188.jpg,"M/19/5’11 [267lbs > 187lbs = 80lbs] (7 months) still more to go, but two similar pictures let me see the difference a little better",M,19,5’11,187.0,26.080917307639023,Overweight
-image_189.jpg,"M/26/5'10 [316>198] (118lbs) From self loathing to self love, slowly (3 years)",M,26,5'10,,,Obese
-image_190.jpg,"F/31/5'5"" [220lbs >151lbs =69lbs lost] (13 months)",F,31,"5'5""",151.0,25.12743666907452,Overweight
-image_191.jpg,F/20/5’7” [180>170=10] (3 months) i don’t really weigh myself so I’m just estimating,F,20,5’7”,170.0,33.20048084540613,Obese
-image_192.jpg,M/20/6’2 [335 > 190 = 145 lbs lost] 10 months,M,20,6’2,190.0,24.3942861881341,Normal weight
-image_193.jpg,F/25/4’11” [185 > 100 = 85lbs] Wanted to get in shape to pursue my dream of cosplaying again and I did it!,F,25,4’11”,100.0,30.515147835851234,Obese
-image_194.jpg,"F/19/5'2"" [164lbs > 125lbs = -39lbs] (24 months) - really happy about the person I became",F,19,"5'2""",125.0,22.86254572509145,Normal weight
-image_195.jpg,"M/39/5'8"" [233lbs > 171lbs = 62lbs] (19 months) The thing you don't see is how much I feel better mentally and physically!",M,39,"5'8""",171.0,26.000173021107294,Overweight
-image_196.jpg,F/45/5’3” [270>195] (15 months) Face gains? Still a coffee addict!,F,45,5’3”,,,Obese
-image_197.jpg,"F/28/5’7” [220lbs > 180lbs = 40lbs] (1 year) Been thinking about it for years, been putting in the work since July!",F,28,5’7”,180.0,35.15345030690061,Obese
-image_198.jpg,F/27/5’7 [160>140=-20] 9 month post partum journey,F,27,5’7,140.0,21.92685695239958,Normal weight
-image_199.jpg,F/45/5’2.5” [238>195 lbs = 43 lbs] (9.5 months),F,45,5’2.5”,195.0,38.08290449914233,Obese
-image_200.jpg,F/19/5’4 [160lbs > 154 lbs = 6 pounds down] (3 weeks) i don’t even know if a difference is noticeable but i notice that i feel a bit better (ignore the drawn on clothes lol),F,19,5’4,154.0,26.433746812806124,Overweight
-image_201.jpg,F/28/5’3 [230 > 175 = 55lbs] (1 year) Face to face Friday! Sometimes it’s hard to see a difference but I notice less of a double chin and less fat in my face. I feel like I can fully smile now without being self conscious of my chin🥹,F,28,5’3,175.0,30.999515261817127,Obese
-image_202.jpg,"F/35/5'4"" [215>145 = 70lbs] (1 year) I cannot believe my face changed this much",F,35,"5'4""",145.0,24.888917453616155,Normal weight
-image_203.jpg,"M/31/171 [97-85 6 weeks] Deleting my earlier post due to some errors in the title; nevertheless, happy to be able to post!",M,31,171,,,Obese
-image_204.jpg,F/22/5’11” [254lbs > 173lbs = 81lbs] December 2022 to February 2024! :),F,22,5’11”,173.0,33.786371683854476,Obese
-image_205.jpg,F/28/5’7 [430>280=150] (9 months) I feel like an entirely different person,F,28,5’7,280.0,43.85371390479916,Obese
-image_206.jpg,M/49/5'10 [125kg-88kg =37kg loss] (7 months) Face changes,M,49,5'10,,,Obese
-image_207.jpg,F/33/5’3” [205lbs>120lbs=85lbs] (10 months),F,33,5’3”,120.0,23.43563353793374,Normal weight
-image_208.jpg,M/45/6’2” [213lbs<228lbs=14lbs] (10 months),M,45,6’2”,,,Obese
-image_209.jpg,M/35/5’10” [335lbs > 220lbs = 115lbs] Lifestyle overhaul,M,35,5’10”,220.0,42.96532815287852,Obese
-image_210.jpg,F/17/5’2”. July of 2022 to February of 2024. From 228 to 126,F,17,5’2”.,,,Obese
-image_211.jpg,F/27/5’3” [240lbs > 180lbs = 60lbs] Progress so far!,F,27,5’3”,180.0,35.15345030690061,Obese
-image_212.jpg,"F/38/118 lbs/5'3"" [200>118=82 lbs] after being overweight or obese since 3rd grade, I feel like I could cry",F,38,118,118.0,,Obese
-image_213.jpg,"M/21/6'2"" [171lbs > 143lbs = 28lbs] weight gain journey 2017-2024",M,21,"6'2""",143.0,18.359910131069352,Underweight
-image_214.jpg,"F/23/5'6 [227lbs > 175lbs = 54lbs] 2 years. Today, I can wear pants that I wore in 9th grade.",F,23,5'6,175.0,28.245426095994528,Overweight
-image_215.jpg,M/25/6’0 [235lbs>185lbs = 50lbs] (March 2023 to Feb 2024) 10 more pounds to go!,M,25,6’0,185.0,25.09023266503323,Overweight
-image_216.jpg,"M/39/5'9"" [189lbs > 159lbs = 30lbs] (10 weeks) gave up donuts",M,39,"5'9""",159.0,23.479935302655736,Normal weight
-image_217.jpg,F/29/5’7” [193 > 159 = 34] 10 months to get to a normal BMI!,F,29,5’7”,159.0,31.052214437762206,Obese
-image_218.jpg,F/21/5’7” [140kg > 75kg = 65kg] (28 months) photo recreation,F,21,5’7”,,,Obese
-image_219.jpg,M/25/5'7 [225 > 18 = 42 lbs] 18 months | Face gains!! Still have about 20-30 more pounds to go.,M,25,5'7,18.0,2.8191673224513747,Underweight
-image_220.jpg,F/21/5’2 [78 Kgs > 72Kgs = 6 Kgs] (6 Months) Lower Body transformation,F,21,5’2,,,Obese
-image_221.jpg,F/29/5’4 [178 lbs > 166 lbs= 12lbs] (12 months) Slowly but surely I will soon reach my GW ☺️,F,29,5’4,166.0,28.493519291726084,Overweight
-image_222.jpg,"F/27/5’9” [250lbs > 170lbs = 80lbs] about 1 year. Posting for encouragement because I gained 40lbs back after maintaining for 2 years. Got up to 210, back down to 199 currently. This time I’m going for 150!",F,27,5’9”,170.0,33.20048084540613,Obese
-image_223.jpg,F/26/5’6” [240 > 199=41 lbs] weight loss progress,F,26,5’6”,199.0,38.86409228374012,Obese
-image_224.jpg,M/33/6’0” [406lbs > 231lbs = 175] Weight loss progress,M,33,6’0”,231.0,31.328885111473927,Obese
-image_225.jpg,M/37/6’1 [360lbs. > 275lbs. = 85lbs.] (3 years) I feel like an entirely new person,M,37,6’1,,,Obese
-image_226.jpg,"M/32/5'8"" [287 lbs > 175 lbs = 112 lbs] (2 years, 4 months) Keeping it up and/or down.",M,32,"5'8""",175.0,26.608364202887582,Overweight
+Image_Name,Cleaned_Caption,Gender,Age,Height,Weight,BMI,BMI Classification with Gender
+image_1.jpg,F/33/5’6 [356 lbs > 145 lbs = 210 lbs lost] hardest work I’ve ever done… working on muscle growth and toning now,F,33,5’6,145.0,23.4,Normal weight
+image_2.jpg,"F/20/5'9 [242lbs > 182lbs = 60lbs] Same pants, more confidence.",F,20,5'9,182.0,26.88,Overweight
+image_3.jpg,"F/26/5'5"" [212lbs > 140lbs = 72lbs]. New Year, New Face Benefits!",F,26,"5'5""",140.0,23.3,Normal weight
+image_4.jpg,"F/25/5'2""[265lbs>220lbs] 12 months",F,25,"5'2""",,,Obese
+image_5.jpg,F/26/5’8 [307lbs > 258lbs = 49lbs] (4 months) Almost 120 days of consistent tracking & staying in a calorie deficit,F,26,5’8,258.0,39.23,Obese
+image_6.jpg,F/24/5’6” [253.5 lbs > 242.5 lbs] 1 month,F,24,5’6”,,,Obese
+image_7.jpg,"M/30/6'1"" [263lbs > 226lbs = 37lbs] Goal weight 190",M,30,"6'1""",226.0,29.82,Overweight
+image_8.jpg,"M/33/5’11” [310 > 208lbs = 102] Weight loss progress, 175 days",M,33,5’11”,208.0,40.62,Obese
+image_9.jpg,F/28/5’6 [297 > 177 = 120] (14 months),F,28,5’6,177.0,28.57,Overweight
+image_10.jpg,M/40/6’2” [265>185=80 lbs] Face Gains,M,40,6’2”,185.0,25.09,Overweight
+image_11.jpg,M/33/5”11 [225>180] 18 months,M,33,5”11,,,Obese
+image_12.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_13.jpg,"M/36/5’10” [331>223=108] (18 months) Consistency is key, super proud of the progress so far!",M,36,5’10”,223.0,43.55,Obese
+image_14.jpg,Now. (I no longer weigh myself everyday due to weigh lifting),Now. (I no longer weigh myself everyday due to weigh lifting),,,,,
+image_15.jpg,M/35/5’11” [165lbs to 205lbs] 10 years,M,35,5’11”,,,Obese
+image_16.jpg,F/33/5'9 [300>205=95 lbs] (4 years) Happier and healthier every year,F,33,5'9,205.0,30.27,Obese
+image_17.jpg,F/29/5’8 [287>161= 126lbs] (4 yrs) 👋🏼,F,29,5’8,161.0,24.48,Normal weight
+image_18.jpg,M/34/5’11” [220<205=15lb] 5 weeks progress with another 15lbs to go!,M,34,5’11”,,,Obese
+image_19.jpg,"F/32/5’2” [160 > 138 = 22] (24 months) was maintaining, now back to our regularly scheduled programming.",F,32,5’2”,138.0,26.95,Overweight
+image_20.jpg,F/30/5’6 [228>165=63lbs] face gains!,F,30,5’6,165.0,26.63,Overweight
+image_21.jpg,M/18/6’0 [160>200=50lbs] (1 year),M,18,6’0,200.0,27.12,Overweight
+image_22.jpg,F/31/5’4” [235>176=59 pound lost] (3 years) 🔥 last year I gave up on the crash diets and did something that stuck.,F,31,5’4”,176.0,34.37,Obese
+image_23.jpg,F/22/5’2 [250 lbs > 215 lbs = 35 lbs] (6 ish? months),F,22,5’2,215.0,39.32,Obese
+image_24.jpg,"Still a long way to go, but proud of my progress","Still a long way to go, but proud of my progress",,,,,
+image_25.jpg,F/21/5’2 “[210lbs>113= 97lbs] (16 months ),F,21,5’2,113.0,20.67,Normal weight
+image_26.jpg,F/28/5’5 [185 > 147 = 38 lbs] been maintaining for a little over a year and I’m happy :),F,28,5’5,147.0,24.46,Normal weight
+image_27.jpg,F/27/5’6 [250 to 130] 2 years,F,27,5’6,,,Obese
+image_28.jpg,"M/43/5'7 [260 > 157 = 103 lbs] 11 months. Last milestone before goal weight: ""normal"" BMI",M,43,5'7,157.0,24.59,Normal weight
+image_29.jpg,"F/32/5’1” [164.6lbs/ 74.7kg>147lbs/ 66.7kg= 17.6lbs/ 7.9kg] (4 months) Didn’t look like I had made any progress last couple months, so decided to update my progress pic.",F,32,5’1”,,,Obese
+image_30.jpg,"M/29/6'2""[330lbs > 220lbs = 110lbs] weightloss progress",M,29,"6'2""",220.0,28.25,Overweight
+image_31.jpg,M/32/6’0 [175lbs > 179lbs = 4 pounds gained] 2 years. Dumbbells and bodyweight exercises.,M,32,6’0,179.0,24.28,Normal weight
+image_32.jpg,"pump on leg day today. I've got a long way to go, but I'm so much happier and healthier.","pump on leg day today. I've got a long way to go, but I'm so much happier and healthier.",,,,,
+image_33.jpg,M/30/150/ 5’9 “ [150 >140 = 10lbs] 2 months little cut,M,30,150,140.0,,Obese
+image_34.jpg,M/28/6'4'' [350>225= 125lbs] (16 months),M,28,6'4'',225.0,27.39,Overweight
+image_35.jpg,"F/15/5’3” [July 5th, 2021, 145 LBS) ➡️ F/17/5’5” [February 21, 2024] 168 LBS",F,15,5’3”,,,Obese
+image_36.jpg,"F/28/5’9”[180lbs>174lbs =6lbs] Two months in, just trying to get sexier for the summer! (repost bec account got deleted)",F,28,5’9”,174.0,33.98,Obese
+image_37.jpg,M/25/5’9 “[110lbs>141= 31lbs] (18 months ),M,25,5’9,141.0,20.82,Normal weight
+image_38.jpg,F/38/5’5” [303 > 138 = 165] (3 years) I’ve been having some body issues lately…,F,38,5’5”,138.0,26.95,Overweight
+image_39.jpg,F/32/179 cm [102 kg > 72 = 30 kg] (1 year),F,32,179,72.0,,Obese
+image_40.jpg,M/31/5'10 [278lbs > 198lbs = 80 pounds lost] 7 months.,M,31,5'10,198.0,28.41,Overweight
+image_41.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_42.jpg,F/28/5’4”[208lbs>153lbs=55lbs] (8 months),F,28,5’4”,153.0,29.88,Overweight
+image_43.jpg,"F/32/5'8[438>307=131] 2 years. Calorie counting, exercise, no surgery. First year dropped 90 lbs second year dropped 40 and started recomping",F,32,5'8,307.0,46.68,Obese
+image_44.jpg,"F/20/5'0"" [136lbs > 125lbs = 11 pounds lost] Slow cutting after the Bulk! Girls power",F,20,"5'0""",125.0,24.41,Normal weight
+image_45.jpg,"F/33/5’4”[205>155=50] 6 months. 1200 calories a day, no alcohol, no exercise.",F,33,5’4”,155.0,30.27,Obese
+image_46.jpg,"F/22/5’6 [250lbs > 140lbs = 110lbs lost] been maintaining for about a year now, took me about a year to lose the weight but here we are! i’m still so proud of myself 🥺😭",F,22,5’6,140.0,22.6,Normal weight
+image_47.jpg,F/35/5’5 [331>180=151lbs](2yrs),F,35,5’5,180.0,29.95,Obese
+image_48.jpg,"F/33/5’9” [235lbs > 215lbs = 20lbs ] (1 year). So I was struggling to see any difference in my weight loss until I put these two pictures together. Crazy how a small difference can drastically change how someone looks. It’s been slow going due to some meds, but a loss is a loss.",F,33,5’9”,215.0,41.99,Obese
+image_49.jpg,"F/28/5'5"" [320lbs > 175lbs = 145lbs] pic 5ish years apart. Been working on body comp the last year or so. Who tf am I?",F,28,"5'5""",175.0,29.12,Overweight
+image_50.jpg,"76] 2 years, same bathing suit. Halfway there!","76] 2 years, same bathing suit. Halfway there!",,,,,
+image_51.jpg,F/22/5’8” [245lbs > 133lbs] weight loss progress!,F,22,5’8”,,,Obese
+image_52.jpg,163 = 54] 1 yr,163 = 54] 1 yr,,,,,
+image_53.jpg,"M/29/5'10"" [285>155 = 130lbs] I made some significant face gains!",M,29,"5'10""",155.0,22.24,Normal weight
+image_54.jpg,"F/30/5'1"" [168Ibs > 144Ibs = 24Ibs] weight loss progress",F,30,"5'1""",,,Obese
+image_55.jpg,"F/28/5’3” [120lbs > 125lbs = 5lbs gained] (2 months) Been focusing more on glutes lately, hoping for more volume and have been eating more regularly. Next focus will most likely be arms.",F,28,5’3”,125.0,24.41,Normal weight
+image_56.jpg,M/24/5’9” [308>185=123] 4 years of pain and suffering paid off,M,24,5’9”,185.0,36.13,Obese
+image_57.jpg,"F/33/5'4 [280>170=110] (4 years)  been maintaining for 1 year, 25 more to go!",F,33,5'4,170.0,29.18,Overweight
+image_58.jpg,"F/31/5’2” [236>186=50lbs] (12 months) Lifting heavy, mostly consistently and eating consciously, prioritizing protein and veggies. I’m just trying to get strong and healthy, done trying to be the skinniest I can be.",F,31,5’2”,186.0,36.33,Obese
+image_59.jpg,F/25/5’2” [172lbs > 155lbs = 17lbs] (8 months) I’m just getting started but already feeling better,F,25,5’2”,155.0,30.27,Obese
+image_60.jpg,90kg] (2 months) 55 days of killing myself to get into shape.,90kg] (2 months) 55 days of killing myself to get into shape.,,,,,
+image_61.jpg,219=73lbs] (9 months) amazing what a good haircut can do 💇‍♀️,219=73lbs] (9 months) amazing what a good haircut can do 💇‍♀️,,,,,
+image_62.jpg,167lbs] (3yrs),167lbs] (3yrs),,,,,
+image_63.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_64.jpg,yoing) (The last place I posted this side by side people told me they couldn't tell any difference :c),yoing) (The last place I posted this side by side people told me they couldn't tell any difference :c),,,,,
+image_65.jpg,"F/31/5'6"" [120lbs < 125lbs = 5lbs] Gym Progress",F,31,"5'6""",,,Obese
+image_66.jpg,180] (4 years) Gym Progress,180] (4 years) Gym Progress,,,,,
+image_67.jpg,Went sober and overhauled my diet. I feel like a new man!,Went sober and overhauled my diet. I feel like a new man!,,,,,
+image_68.jpg,"here's my body progress. Still a long way to go, but feel so much better.","here's my body progress. Still a long way to go, but feel so much better.",,,,,
+image_69.jpg,"F/28/5'5"" [250lbs>219lbs=31lbs] (80 days) Feeling like my stomach and double chin will never shrink :(",F,28,"5'5""",219.0,36.44,Obese
+image_70.jpg,"M/36/5’10” [238 > 207.5 = 27.5] (2 months) SW(Last photo): 238 GW: ~175 or 180 (in compare photos left is 218lbs on Feb 2nd, right is 208lbs on Feb 18th)",M,36,5’10”,,,Obese
+image_71.jpg,M/35/5’11” [221<210=11lbs] (11 weeks),M,35,5’11”,,,Obese
+image_72.jpg,F/29/5’8” [355 lbs >215 lbs = 140 lbs](~2 years) hit 140 lbs down during my birthday week!!,F,29,5’8”,215.0,41.99,Obese
+image_73.jpg,"F/19/5'3""[108>135 = 27lb gained] Been on a weight gain journey for about a year now, first pic I took at the start of 2023 the second pic was taken few days ago. I can say I am happy with my progress and feel alot more confident! To all of you on the same journy you can do it😆🥰…",F,19,"5'3""",135.0,23.91,Normal weight
+image_74.jpg,"M/29/5'11 [242 lbs>211lbs= 31lbs] Same shirt, 6 months apart",M,29,5'11,211.0,29.43,Overweight
+image_75.jpg,200 lbs] Had issues with original account but im back! 10 year gap between pics but feeling younger and more alive.,200 lbs] Had issues with original account but im back! 10 year gap between pics but feeling younger and more alive.,,,,,
+image_76.jpg,20ish months I honestly have lost track) Still have a way to go. Lost almost all of it naturally just started semiglutide a few weeks ago. Happy with who I was excited for who I’m becoming ☺️☺️,20ish months I honestly have lost track) Still have a way to go. Lost almost all of it naturally just started semiglutide a few weeks ago. Happy with who I was excited for who I’m becoming ☺️☺️,,,,,
+image_77.jpg,F/28/5’7” [228lbs > 147lbs = 81lbs] Weight loss progress,F,28,5’7”,147.0,28.71,Overweight
+image_78.jpg,M/35/6'1 [205lbs > 225lbs = 20lbs] (3 years at the gym),M,35,6'1,225.0,29.68,Overweight
+image_79.jpg,F/27/5’6” [189lbs>153lbs=36lbs] Reached a huge milestone the other day. I’m no longer overweight!,F,27,5’6”,153.0,29.88,Overweight
+image_80.jpg,"M/24/6'0"" [360lbs > 255lbs = 105lbs](13 months) I told myself I'd post progress pics once I cleared 100lbs, so here we are!",M,24,"6'0""",255.0,34.58,Obese
+image_81.jpg,"F/27/5'4"" [247lbs>199lbs=48lbs] About halfway to my GW, but I'm so surprised at how much it has changed my face and all over glow already!",F,27,"5'4""",199.0,34.16,Obese
+image_82.jpg,M/35/6’ [403lbs>248lbs=155lbs] More to go but feeling great. Can really see it in my face,M,35,6’,248.0,33.63,Obese
+image_83.jpg,F/23/5’3” [148lbs > 127.2lbs?] 1 year face gains !,F,23,5’3”,,,Obese
+image_84.jpg,6 miles daily,6 miles daily,,,,,
+image_85.jpg,175lbs] 36+ months. Feeling good!,175lbs] 36+ months. Feeling good!,,,,,
+image_86.jpg,F/25/5’10” [265lbs >211lbs =54lbs lost] More fat to go and muscle to gain but I'm shocked at the 5 year difference!,F,25,5’10”,211.0,41.21,Obese
+image_87.jpg,F/63/5’4”[223>155=68lbs] Exactly two years apart on my birthday. If I can do it so can you!,F,63,5’4”,155.0,30.27,Obese
+image_88.jpg,"F/35/4'11"" [260+ lbs > 200lbs = 60lbs] (9 months) Grief (and sobriety and CICO) does a thing",F,35,"4'11""",200.0,40.39,Obese
+image_89.jpg,M/32/5’10” [254lbs>184lbs=70lbs] one moment of embarrassment forced change,M,32,5’10”,184.0,35.93,Obese
+image_90.jpg,F/31/5’1” [108lbs > 135lbs = 27lbs] (6+ years) So stoked on the person I’ve become. My mental strength gainz have allowed me to better support my loved ones and myself 💪🏻,F,31,5’1”,135.0,26.37,Overweight
+image_91.jpg,"M/30/5’5” [227>169=58lbs] (36 months) Long journey, but feeling myself again",M,30,5’5”,169.0,33.01,Obese
+image_92.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_93.jpg,241] 76 Ibs. 7 months.,241] 76 Ibs. 7 months.,,,,,
+image_94.jpg,F/24/5’7” [200lbs >160lbs =40lbs lost] not where I want to be but not where I was before. Same shorts of course.,F,24,5’7”,160.0,31.25,Obese
+image_95.jpg,M/21/5’10 [310–>170] (16 months) From the lowest point of my life to the best I’ve ever felt in my life. Don’t even recognize the guy on the left anymore.,M,21,5’10,,,Obese
+image_96.jpg,M/37/6'2 [450 < 365]  (18 months) NSV. Bought these pants to wear to interviews as I was changing careers. Now they fall off me.,M,37,6'2,,,Obese
+image_97.jpg,F/22/4'11 [120lbs > 105lbs] Face gains after 15lbs weight loss,F,22,4'11,,,Obese
+image_98.jpg,M/27/6'1 [375>265=110lb] (36 months) hit my 3 year weight loss landmark,M,27,6'1,265.0,34.96,Obese
+image_99.jpg,F/24/5’6 [176lbs>148lbs] 06 months into pilates,F,24,5’6,,,Obese
+image_100.jpg,M/20/6’1” [159lbs > 228lbs = 70lbs] Weight gain progress,M,20,6’1”,228.0,30.92,Obese
+image_101.jpg,"X/31/5'1"" [191lbs > 181lbs = 20lbs] (12 months) Lotta stagnation this year, but pleasantly surprised to see progress!",X,31,"5'1""",181.0,34.2,
+image_102.jpg,F/28/5’6 [330>150=180] (48 months) I am posting this for inspiration. You can do this!,F,28,5’6,150.0,24.21,Normal weight
+image_103.jpg,F/24/5’8 [126lb > 128lb] 7 week glute progress,F,24,5’8,,,Obese
+image_104.jpg,F/30/5'8 [202>146=56] (8 months) Feb 2023 vs Feb 2024! Maintained since October. Now ready for recomp!,F,30,5'8,146.0,22.2,Normal weight
+image_105.jpg,M/32/5’6” [160 lbs < 170 lbs] (2 years) we still growing.,M,32,5’6”,,,Obese
+image_106.jpg,"31lbs] Hello, onederland!","31lbs] Hello, onederland!",,,,,
+image_107.jpg,"F/29/5'3"" [167lbs > 137.8lbs = 29.2lbs] Weight loss progress",F,29,"5'3""",,,Obese
+image_108.jpg,F/29/5’3” [182>130=52lbs] ~2 years of low n slow progress 😎,F,29,5’3”,130.0,25.39,Overweight
+image_109.jpg,F/49/5'7 [169<199 = 30 pounds] 6 months.  I just physically feel so much better all around!,F,49,5'7,,,Obese
+image_110.jpg,M/25/5’8 [108 KG > 80 KG = 28 KG] (7 months) Keto diet + gym + cardio,M,25,5’8,80.0,12.16,Underweight
+image_111.jpg,"injury weight, 30 until I hit my wedding goal","injury weight, 30 until I hit my wedding goal",,,,,
+image_112.jpg,M/26/6’1” [350lbs > 175lbs = 175lbs] Some up and down progress over a few years,M,26,6’1”,175.0,23.73,Normal weight
+image_113.jpg,"M/20/6'3"" [213lbs 207lbs = 6lbs] (13 months) started cutting now",M,20,"6'3""",,,Obese
+image_114.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_115.jpg,M/18/6’2 [150 > 160 = 10 lbs gained] (5 months) Is this underwhelming progress for 5 months?,M,18,6’2,160.0,20.54,Normal weight
+image_116.jpg,do you see any changes?,do you see any changes?,,,,,
+image_117.jpg,F/37/5’6” [347lbs > 132lbs = 215lbs] (8 years) Finally done trying to lose weight,F,37,5’6”,132.0,25.78,Overweight
+image_118.jpg,2hrs of daily walks and basic weightlifting.,2hrs of daily walks and basic weightlifting.,,,,,
+image_119.jpg,F/35/5’2 [151lbs > 122lbs = 29lbs lost] Weight Loss Progress,F,35,5’2,122.0,22.31,Normal weight
+image_120.jpg,M/42/6’1” [460lbs > 270lbs = 190lbs] (14 months) It’s been a journey…,M,42,6’1”,270.0,36.62,Obese
+image_121.jpg,M/25/6'1 [320>245=75 pounds] gathered up all my progress pics for this one. More info at bottom.,M,25,6'1,245.0,32.32,Obese
+image_122.jpg,F/31/5’5” [315lbs > 219lbs = 96 lbs lost] and not done yet!,F,31,5’5”,219.0,42.77,Obese
+image_123.jpg,F/30/5’5 [304lbs > 280lbs = 24lbs lost] (1.5 months) I don’t have anyone to share this with so I am posting here.,F,30,5’5,280.0,46.59,Obese
+image_124.jpg,47 lbs] (5 months) mainly just diet changes up to this point. Looking to get in the gym and keep going!!,47 lbs] (5 months) mainly just diet changes up to this point. Looking to get in the gym and keep going!!,,,,,
+image_125.jpg,"M/33/6’0” [230lbs > 188lbs = 42lbs] (10 months) Weightlifting and CICO is changing my life, and I’m not close to done.",M,33,6’0”,188.0,25.5,Overweight
+image_126.jpg,175=110lbs] This month was the 2 year mark of many lifestyle changes. Thanks to this sub for all the inspiration,175=110lbs] This month was the 2 year mark of many lifestyle changes. Thanks to this sub for all the inspiration,,,,,
+image_127.jpg,"M/24/5'10"" [280 > 210 = 70lbs] (3 years) I feel reborn.",M,24,"5'10""",210.0,30.13,Obese
+image_128.jpg,"M/29/6'2"" [522 > 372 = 150 Lost] (2.5 years) Celebrated 150lbs lost this week, my facial change so far",M,29,"6'2""",372.0,47.76,Obese
+image_129.jpg,"M/22/5'5"" [80kg>70kg] (9 months) Face Gains",M,22,"5'5""",,,Obese
+image_130.jpg,"M/28/5'11"" [125lbs > 139lbs = 14lbs] weight gain feedback",M,28,"5'11""",139.0,19.39,Normal weight
+image_131.jpg,"yoing, but I finally managed to stabilize my weight and slowly appreciate my body. That was hard but i make it step by step","yoing, but I finally managed to stabilize my weight and slowly appreciate my body. That was hard but i make it step by step",,,,,
+image_132.jpg,F/31/5’2 [165 > 130 = 35 lbs] 8/9 yr journey,F,31,5’2,130.0,23.78,Normal weight
+image_133.jpg,M/17/5’9” [235lbs>165lbs = 70lbs] how puberty and weight loss changed my face,M,17,5’9”,165.0,32.22,Obese
+image_134.jpg,F/37/5'4 [275 > 175 = 100lbs] (48 months) I did this hard work. I don't think I'll ever be truly finished. But I'm proud of myself. Body pic in thread.,F,37,5'4,175.0,30.04,Obese
+image_135.jpg,F/26/5’6” [174.3 lbs > 153.9 lbs = 20.4 lbs pounds lost] It’s my birthday!,F,26,5’6”,,,Obese
+image_136.jpg,F/36/5’5 [225>165=60 pounds] (8 months) Feeling good today… 15 pounds away from “normal weight”,F,36,5’5,165.0,27.46,Overweight
+image_137.jpg,"M/25/5'9"" [132lbs > 171lbs = 39lbs] (72 months)",M,25,"5'9""",171.0,25.25,Overweight
+image_138.jpg,170lbs] Visible progress despite major setbacks,170lbs] Visible progress despite major setbacks,,,,,
+image_139.jpg,M/26/5’6” [183lbs > 160lbs = 23lbs] 1 year,M,26,5’6”,160.0,31.25,Obese
+image_140.jpg,"F/27/5’3” [109 > 174 > 120 = 55lbs] 15 months postpartum. My physique has definitely changed but I’m starting to better accept them. Honest thoughts please, should I continue to try to lean down or just work on growth? I miss my thin legs but I feel like it may be better for my…",F,27,5’3”,174.0,33.98,Obese
+image_141.jpg,F/34/5’1”[178lbs>143lbs=35lbs] I thought I would be miserable with how I looked for forever,F,34,5’1”,143.0,27.93,Overweight
+image_142.jpg,F/34/5'4 [216 > 160 =56lbs] (4 yrs) my shirt got bigger!,F,34,5'4,160.0,27.46,Overweight
+image_143.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_144.jpg,F/24/5’5” [225>153=72lb] (16ish months) Going from begrudgingly taking family pictures on my last vacay to asking for pictures on my most recent >>>,F,24,5’5”,153.0,29.88,Overweight
+image_145.jpg,M/21/5’8” [60>48kg] 8 months progress,M,21,5’8”,,,Obese
+image_146.jpg,current,current,,,,,
+image_147.jpg,M/23/6’1”[63kg(138lb) > 78kg (171lb) = 15kg (33lb) Gained] (2.5yrs),M,23,6’1”,,,Obese
+image_148.jpg,M/30/6’4” [266lbs > 215lbs = 51lbs] 50 lbs in 94 days! 8 inches off of waist size. Don’t hate too much in the comments!,M,30,6’4”,215.0,29.16,Overweight
+image_149.jpg,X/19/5’11” [320lbs > 265lbs = 55lbs] (12 months) Same hoodie different person,X,19,5’11”,265.0,51.75,
+image_150.jpg,F/27/5’10” [228lbs > 198lbs = 30lbs] Weight loss progress,F,27,5’10”,198.0,38.67,Obese
+image_151.jpg,"F/25/5'8"" [150lbs > 135lbs = 15lbs] Getting closer to my goal",F,25,"5'8""",135.0,20.53,Normal weight
+image_152.jpg,F/19/5’0” [132lbs > 99lbs = 33lbs] (1 year 3 months) Weight loss :D Recently started going to the gym,F,19,5’0”,99.0,19.33,Normal weight
+image_153.jpg,"M/21/5'7 [250lbs > 196lbs = 54lbs] (1.5yrs) Lost a lot of fat, gained more muscle. I still haven't reached my goal but I am so proud of myself for how far I've gotten.",M,21,5'7,196.0,30.7,Obese
+image_154.jpg,"Keto since november, omad(IF) since december and gym since 14.1.","Keto since november, omad(IF) since december and gym since 14.1.",,,,,
+image_155.jpg,Started out with on and off IF/OMAD then I just fell in love with the gym and getting better along with calorie deficits the right way. Today marks 7 months of not missing the gym at all and I feel so motivated to achieve more! :),Started out with on and off IF,OMAD,,,,
+image_156.jpg,F/24/5’5” [115lbs > 140lbs = 25lbs gained] (36 months) Fitness trainer,F,24,5’5”,140.0,27.34,Overweight
+image_157.jpg,F/33/5’6” [235lbs>217lbs= 18lbs] vegan since 1/10/24 started running 2/1/24,F,33,5’6”,217.0,42.38,Obese
+image_158.jpg,F/32/5’5” [162lbs > 117lbs] 9 months progress,F,32,5’5”,,,Obese
+image_159.jpg,M/18/5’8” [117 > 170 = 53 lbs] 1 Year weight gain progress,M,18,5’8”,170.0,33.2,Obese
+image_160.jpg,"F/32/5’6” [134lbs > 145lbs = 11lbs] a little over a year after increasing my gym regiment, especially over the last 3 months",F,32,5’6”,145.0,28.32,Overweight
+image_161.jpg,M/28/5’11 [115 lbs < 160 lbs = 45lbs] weight gain progress,M,28,5’11,,,Obese
+image_162.jpg,F/28/5’2 [231lbs > 136lbs = 95lbs] finally hit the 5 year maintained mark!,F,28,5’2,136.0,24.87,Normal weight
+image_163.jpg,M/30/5’10” [236lb>200lb>146lb] (11 months),M,30,5’10”,,,Obese
+image_164.jpg,222LBs] 💪💪,222LBs] 💪💪,,,,,
+image_165.jpg,"M/36/5'7"" [210 lbs > 180 lbs] Face gains from healthier lifestyle",M,36,"5'7""",180.0,28.19,Overweight
+image_166.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_167.jpg,M/26/6’0”[90kg>73kg=17kgs lost] last year’s progress,M,26,6’0”,,,Obese
+image_168.jpg,F/24/5’7” [260lbs > 196lbs = 64lbs] September 2023 v Now.,F,24,5’7”,196.0,38.28,Obese
+image_169.jpg,"F/60/5'1 [220lbs > 140lbs = 80lbs] (Decades, but most recently 5 months)...Almost there! My daughter told me to come here to find a weight loss community. Please excuse my very old ""before"" photo it's the best I could find.",F,60,5'1,140.0,26.45,Overweight
+image_170.jpg,"F/23/5'8"" [360lbs > 244lbs = 116lbs] (8 months) Valentines Day Update",F,23,"5'8""",244.0,37.1,Obese
+image_171.jpg,F/31/5’6” [222 > 202=20 lbs] (3 months) I’m waiting til next week but I’m 197 now :’),F,31,5’6”,202.0,39.45,Obese
+image_172.jpg,26lbs] Leg progress!! Photos are exactly 1 year apart,26lbs] Leg progress!! Photos are exactly 1 year apart,,,,,
+image_173.jpg,F/35/5’4” [214lbs>190lbs = 24lbs] One year ago vs Now,F,35,5’4”,190.0,37.11,Obese
+image_174.jpg,"F/31/5'7""[242>228= 14lbs] one month",F,31,"5'7""",228.0,35.71,Obese
+image_175.jpg,M/32/6’4” [285lbs > 240lbs = 45lbs] 15+ years lifting experience,M,32,6’4”,240.0,32.55,Obese
+image_176.jpg,M/39/5’8” [360>323= 37 lbs down] I didn’t notice face gains until recently,M,39,5’8”,323.0,63.08,Obese
+image_177.jpg,F/25/5'6 [240 > 233 = 7] (1.5 months),F,25,5'6,233.0,37.61,Obese
+image_178.jpg,F/22/5’5 [130<142] 2 year difference. Started Lifting more seriously,F,22,5’5,,,Obese
+image_179.jpg,F/35/5’9” [281lbs>180lbs=101lbs] Face gains,F,35,5’9”,180.0,35.15,Obese
+image_180.jpg,F/31/5’6” [212 > 202 = 10] (2 months diff),F,31,5’6”,202.0,39.45,Obese
+image_181.jpg,235lbs = 50] Face gains? My clothes are smaller. But I genuinely have trouble seeing a difference.,235lbs = 50] Face gains? My clothes are smaller. But I genuinely have trouble seeing a difference.,,,,,
+image_182.jpg,"M/35/5'11""[415lbs>215lbs=200lbs lost](9 years)",M,35,"5'11""",215.0,29.99,Obese
+image_183.jpg,F/19/5’5” [210lbs > 160lbs = 50lbs] (12 months) Also only been working out since June of 2023. also don’t know if the weights are right bc I don’t weigh in often.,F,19,5’5”,160.0,31.25,Obese
+image_184.jpg,25lbs] October 2022 to February 2024. it’s hard to see the difference all the time.,25lbs] October 2022 to February 2024. it’s hard to see the difference all the time.,,,,,
+image_185.jpg,M/36/5’7” [308lbs > 278lbs = 30lbs] (27 months) FACE GAINS! I gotta do CICO because I am stuck for few months... but feel 10 years younger,M,36,5’7”,278.0,54.29,Obese
+image_186.jpg,169lbs = 46lbs] I had to get the bridesmaid dress I ordered in November altered a little!,169lbs = 46lbs] I had to get the bridesmaid dress I ordered in November altered a little!,,,,,
+image_187.jpg,F/28/5’6” [230lb > 170 = 60 lb] 11 months! currently a full year into strength training getting back on track,F,28,5’6”,170.0,33.2,Obese
+image_188.jpg,F/31/5’4” [235 > 175= 60lbs] (15 months) updated face gainsss!,F,31,5’4”,175.0,34.18,Obese
+image_189.jpg,"210lbs = 32lbs] 1 year ago, I decided to make my health a priority ✌","210lbs = 32lbs] 1 year ago, I decided to make my health a priority ✌",,,,,
+image_190.jpg,F/38/5’6 [242 > 148 = 94] 11 months,F,38,5’6,148.0,23.89,Normal weight
+image_191.jpg,F/23/5’2” [205lbs > 185lbs= 25lbs] progress Pics,F,23,5’2”,185.0,36.13,Obese
+image_192.jpg,112 = 5 lbs (but not counting) ] 6 months of working that butt lift 😁,112 = 5 lbs (but not counting) ] 6 months of working that butt lift 😁,,,,,
+image_193.jpg,"255lbs = 30lbs] Started January 1 2024, weighed in today at 255, the goal is to get to 220 by May 24 for a Muay Thai provincial tournament","255lbs = 30lbs] Started January 1 2024, weighed in today at 255, the goal is to get to 220 by May 24 for a Muay Thai provincial tournament",,,,,
+image_194.jpg,M/25/5’10” [300lbs > 195lbs= 105lbs] Weight loss progress,M,25,5’10”,195.0,38.08,Obese
+image_195.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_196.jpg,F/45/5'7” [182lbs > 145lbs = 37lbs] Weight loss progress and hair loss issue,F,45,5'7”,145.0,28.32,Overweight
+image_197.jpg,F/29/5’3”[275>226lbs=49lbs] (10months) The scale hasn’t moved in over a month 🙃,F,29,5’3”,226.0,44.14,Obese
+image_198.jpg,215lbs] feeling good about myself 14 years later.,215lbs] feeling good about myself 14 years later.,,,,,
+image_199.jpg,M/34/6'0[255lbs>235lbs=20lbs] Been feeling great lately.,M,34,6'0,235.0,31.87,Obese
+image_200.jpg,M/26/6’2’’ [385>273= 112 lost] (9 months) out of my comfort zone,M,26,6’2’’,273.0,35.05,Obese
+image_201.jpg,F/35/5’2” [285lbs > 175lbs = 110lbs] trying to motivate myself to keep going,F,35,5’2”,175.0,34.18,Obese
+image_202.jpg,M/25/180 [128kg > 105kg = 23 kg] 6 months progress and i'm pretty happy with it.,M,25,180,,,Obese
+image_203.jpg,F/34/5’ 6” [184>144 = 40lbs] never thought I would get here!,F,34,5’,144.0,28.12,Overweight
+image_204.jpg,F/28/5'6 [160 > 136 = 24] Progress so far. I would like to have some visible abs. Any advice is welcome!,F,28,5'6,136.0,21.95,Normal weight
+image_205.jpg,6 months],6 months],,,,,
+image_206.jpg,"F/32/5'9"" [348 > 283 = 65 lbs] Got to my HW in 6/2020. Yesterday, I did the zipline in Vegas because I'm under the weight limit of 300 lbs. So proud of how far I've come!",F,32,"5'9""",283.0,41.79,Obese
+image_207.jpg,F/32/5’9” [142lb > 142lb = 0lb] (10 months) Started working out regularly in 2023 and so stoked on my fitness progress!,F,32,5’9”,,,Obese
+image_208.jpg,M/23/5’9 [145lbs>161lbs = 16lbs gained] (2 months ),M,23,5’9,161.0,23.78,Normal weight
+image_209.jpg,F/21/5'4 [108lbs>122lbs] 3 years of glute gains. I used to get roasted for being an Asian girl with no butt. So this is proof that anything's possible when you work hard for it,F,21,5'4,,,Obese
+image_210.jpg,M/19/5'10 [290 > 170] (1.5 years) he'd be proud,M,19,5'10,,,Obese
+image_211.jpg,"M/19/5’11 [267lbs > 187lbs = 80lbs] (7 months) still more to go, but two similar pictures let me see the difference a little better",M,19,5’11,187.0,26.08,Overweight
+image_212.jpg,"M/26/5'10 [316>198] (118lbs) From self loathing to self love, slowly (3 years)",M,26,5'10,,,Obese
+image_213.jpg,"F/31/5'5"" [220lbs >151lbs =69lbs lost] (13 months)",F,31,"5'5""",151.0,25.13,Overweight
+image_214.jpg,F/20/5’7” [180>170=10] (3 months) i don’t really weigh myself so I’m just estimating,F,20,5’7”,170.0,33.2,Obese
+image_215.jpg,M/20/6’2 [335 > 190 = 145 lbs lost] 10 months,M,20,6’2,190.0,24.39,Normal weight
+image_216.jpg,F/25/4’11” [185 > 100 = 85lbs] Wanted to get in shape to pursue my dream of cosplaying again and I did it!,F,25,4’11”,100.0,30.52,Obese
+image_217.jpg,really happy about the person I became,really happy about the person I became,,,,,
+image_218.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_219.jpg,"M/39/5'8"" [233lbs > 171lbs = 62lbs] (19 months) The thing you don't see is how much I feel better mentally and physically!",M,39,"5'8""",171.0,26.0,Overweight
+image_220.jpg,F/45/5’3” [270>195] (15 months) Face gains? Still a coffee addict!,F,45,5’3”,,,Obese
+image_221.jpg,"F/28/5’7” [220lbs > 180lbs = 40lbs] (1 year) Been thinking about it for years, been putting in the work since July!",F,28,5’7”,180.0,35.15,Obese
+image_222.jpg,20] 9 month post partum journey,20] 9 month post partum journey,,,,,
+image_223.jpg,F/45/5’2.5” [238>195 lbs = 43 lbs] (9.5 months),F,45,5’2.5”,195.0,38.08,Obese
+image_224.jpg,F/19/5’4 [160lbs > 154 lbs = 6 pounds down] (3 weeks) i don’t even know if a difference is noticeable but i notice that i feel a bit better (ignore the drawn on clothes lol),F,19,5’4,154.0,26.43,Overweight
+image_225.jpg,F/28/5’3 [230 > 175 = 55lbs] (1 year) Face to face Friday! Sometimes it’s hard to see a difference but I notice less of a double chin and less fat in my face. I feel like I can fully smile now without being self conscious of my chin🥹,F,28,5’3,175.0,31.0,Obese
+image_226.jpg,"F/35/5'4"" [215>145 = 70lbs] (1 year) I cannot believe my face changed this much",F,35,"5'4""",145.0,24.89,Normal weight
+image_227.jpg,"85 6 weeks] Deleting my earlier post due to some errors in the title; nevertheless, happy to be able to post!","85 6 weeks] Deleting my earlier post due to some errors in the title; nevertheless, happy to be able to post!",,,,,
+image_228.jpg,F/22/5’11” [254lbs > 173lbs = 81lbs] December 2022 to February 2024! :),F,22,5’11”,173.0,33.79,Obese
+image_229.jpg,F/28/5’7 [430>280=150] (9 months) I feel like an entirely different person,F,28,5’7,280.0,43.85,Obese
+image_230.jpg,88kg =37kg loss] (7 months) Face changes,88kg =37kg loss] (7 months) Face changes,,,,,
+image_231.jpg,F/33/5’3” [205lbs>120lbs=85lbs] (10 months),F,33,5’3”,120.0,23.44,Normal weight
+image_232.jpg,M/45/6’2” [213lbs<228lbs=14lbs] (10 months),M,45,6’2”,,,Obese
+image_233.jpg,M/35/5’10” [335lbs > 220lbs = 115lbs] Lifestyle overhaul,M,35,5’10”,220.0,42.97,Obese
+image_234.jpg,F/17/5’2”. July of 2022 to February of 2024. From 228 to 126,F,17,5’2”.,,,Obese
+image_235.jpg,F/27/5’3” [240lbs > 180lbs = 60lbs] Progress so far!,F,27,5’3”,180.0,35.15,Obese
+image_236.jpg,"F/38/118 lbs/5'3"" [200>118=82 lbs] after being overweight or obese since 3rd grade, I feel like I could cry",F,38,118,118.0,,Obese
+image_237.jpg,2024,2024,,,,,
+image_238.jpg,M/25/6’0 [235lbs>185lbs = 50lbs] (March 2023 to Feb 2024) 10 more pounds to go!,M,25,6’0,185.0,25.09,Overweight
+image_239.jpg,"M/39/5'9"" [189lbs > 159lbs = 30lbs] (10 weeks) gave up donuts",M,39,"5'9""",159.0,23.48,Normal weight
+image_240.jpg,F/29/5’7” [193 > 159 = 34] 10 months to get to a normal BMI!,F,29,5’7”,159.0,31.05,Obese
+image_241.jpg,F/21/5’7” [140kg > 75kg = 65kg] (28 months) photo recreation,F,21,5’7”,,,Obese
+image_242.jpg,30 more pounds to go.,30 more pounds to go.,,,,,
+image_243.jpg,F/21/5’2 [78 Kgs > 72Kgs = 6 Kgs] (6 Months) Lower Body transformation,F,21,5’2,,,Obese
+image_244.jpg,F/29/5’4 [178 lbs > 166 lbs= 12lbs] (12 months) Slowly but surely I will soon reach my GW ☺️,F,29,5’4,166.0,28.49,Overweight
+image_245.jpg,"F/27/5’9” [250lbs > 170lbs = 80lbs] about 1 year. Posting for encouragement because I gained 40lbs back after maintaining for 2 years. Got up to 210, back down to 199 currently. This time I’m going for 150!",F,27,5’9”,170.0,33.2,Obese
+image_246.jpg,F/26/5’6” [240 > 199=41 lbs] weight loss progress,F,26,5’6”,199.0,38.86,Obese
+image_247.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_248.jpg,M/33/6’0” [406lbs > 231lbs = 175] Weight loss progress,M,33,6’0”,231.0,31.33,Obese
+image_249.jpg,M/37/6’1 [360lbs. > 275lbs. = 85lbs.] (3 years) I feel like an entirely new person,M,37,6’1,,,Obese
+image_250.jpg,"M/32/5'8"" [287 lbs > 175 lbs = 112 lbs] (2 years, 4 months) Keeping it up and/or down.",M,32,"5'8""",175.0,26.61,Overweight
+image_251.jpg,"M/26/5'10""[300lbs>193lbs=107lbs] my journey so far 20 more pounds to go",M,26,"5'10""",193.0,27.69,Overweight
+image_252.jpg,"F/32/5'9 [217>205=12 lbs] (1 month progress) Hard to tell if I lost more than just my pants, but the dress feels different!",F,32,5'9,205.0,30.27,Obese
+image_253.jpg,F/22/5’7” [305lbs > 198lbs = 107lbs] I haven’t been this weight since I was about 11 years old!,F,22,5’7”,198.0,38.67,Obese
+image_254.jpg,"F/34/5'8 [182>142 = 40 pounds lost]. 2 years and 4 months (16 months to lose, now a year into maintenance!).",F,34,5'8,142.0,21.59,Normal weight
+image_255.jpg,"M/26/5'8"" [58kg < 70kg = gain 12kg] 18 months. It's hard for me to gain weight. Hope you can see the change😊",M,26,"5'8""",,,Obese
+image_256.jpg,"F/30/5'6"" [267lbs>167lbs=100lbs lost] This process has changed my life. It's neverending, painstaking, terrifying, and so worth it!",F,30,"5'6""",167.0,26.95,Overweight
+image_257.jpg,>bulk progress,>bulk progress,,,,,
+image_258.jpg,"182=72lbs down] [12 months time] never thought I'd see south of 200 after 5 kids, but here I am!","182=72lbs down] [12 months time] never thought I'd see south of 200 after 5 kids, but here I am!",,,,,
+image_259.jpg,"F/34/5'3 [254>182=72lbs down] 12 months between pics, longtime lurker, always wanted to get to a healthier version of myself and have never been this low weight in my adult life.",F,34,5'3,182.0,32.24,Obese
+image_260.jpg,"F/24/5'3 [180lbs > 150lbs = 30lbs] (6 months) 2023: The year I decided to be a bad b*%ch again! I know weight loss medications are controversial on here, but they helped me break through a serious funk in my life. I'm now fully off my semaglutide program, but still SO grateful for…",F,24,5'3,150.0,26.57,Overweight
+image_261.jpg,F/30/5’6 [87kg > 69.5kg = 17.5kg] Same dress but a year and a half apart,F,30,5’6,,,Obese
+image_262.jpg,"F/33/5'5""[336>263=73lbs](8 months) pictures are 1 year apart, same head tilt lol.",F,33,"5'5""",263.0,43.77,Obese
+image_263.jpg,"F/34/5’11” [320lbs > 178lbs = 142lbs] After a 3 year journey, I’ve finally hit my goal weight.",F,34,5’11”,178.0,34.76,Obese
+image_264.jpg,F/30/5’8” [226 > 146 = 80 lbs] truly cannot believe these two pics are the same person,F,30,5’8”,146.0,28.51,Overweight
+image_265.jpg,F/34/5’1 [205 > 180] 25lbs since August but I really see no noticeable difference.,F,34,5’1,,,Obese
+image_266.jpg,F/26/5’6” [270 > 233 = 37 Ibs] I know it’s not a ton but I’m trying to celebrate I’ve done this in three and a half months,F,26,5’6”,233.0,45.5,Obese
+image_267.jpg,"F/32/5'3, [123 >146 > 133 = 10# gained] 7+ years of consistency and carbs",F,32,"5'3,",146.0,28.51,Overweight
+image_268.jpg,M/40/6'2 [275lb>210lb] (65lb) longest I've ever stayed consistent at the gym,M,40,6'2,,,Obese
+image_269.jpg,F/24/5’5” [180>140>125=55 pounds] (in 9 1/2 months) plus one year sober!!,F,24,5’5”,,,Obese
+image_270.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_271.jpg,"M/42/5’10” [220lbs>192lbs=28lbs] Posting for accountability, 12 more lbs to goal weight feeling out of reach.",M,42,5’10”,192.0,37.5,Obese
+image_272.jpg,"M/29/5'10"" [550>265=285] 25 month progress update.",M,29,"5'10""",265.0,38.02,Obese
+image_273.jpg,"F/36/5'0"" [120lbs < 137lbs = 17lbs] almost 20lb bulk did I gain too much fat?",F,36,"5'0""",,,Obese
+image_274.jpg,"F/33/5'3"" [275lbs > 159lbs = 116lbs] Found out I was prediabetic from a new doctor because my old doctor was ""very certain"" I wouldn't listen to his suggestions...took matters into my own hands! My goal is 145LBs, wish me luck! <3",F,33,"5'3""",159.0,28.17,Overweight
+image_275.jpg,F/31/5’10” 178cm [154lbs/70kg>150lb/68kg] (2 Months) Comparison pics after Pull Day. Top December 2023. Bottom today.,F,31,5’10”,,,Obese
+image_276.jpg,F/25/5’2” [136lbs<141lbs=5 lbs gained] 8 month difference going to the gym,F,25,5’2”,,,Obese
+image_277.jpg,>190=80 lbs down] Tried on some new clothes this weekend and couldn’t believe my side profile 😄,>190=80 lbs down] Tried on some new clothes this weekend and couldn’t believe my side profile 😄,,,190.0,,
+image_278.jpg,"F/38/5'10"" [209 > 158=51lbs] Weight Loss Progress. I couldn't see the difference until now",F,38,"5'10""",158.0,22.67,Normal weight
+image_279.jpg,"F/44/5ft10 [168kg > 94kg = 74kg] First post, still a way to go!",F,44,5ft10,,,Obese
+image_280.jpg,F/25/5'2 [139lb>119lb =20lb] My relationship with carbs.,F,25,5'2,,,Obese
+image_281.jpg,F/27/5’6” [170>180 = 10lbs] (1 Year) Started lifting in October!,F,27,5’6”,180.0,35.15,Obese
+image_282.jpg,185 lbs=40 lbs] in about a year!,185 lbs=40 lbs] in about a year!,,,,,
+image_283.jpg,M/29/5’11” [415lbs > 344lbs = 71lbs] getting back to my old me,M,29,5’11”,344.0,67.18,Obese
+image_284.jpg,F/23/5’8” [156 < 161 = 5 lbs] I don’t know who else to celebrate my glute gains with. Thanks for the motivation everyone,F,23,5’8”,,,Obese
+image_285.jpg,18 month update,18 month update,,,,,
+image_286.jpg,21kgs] (9 months) My progress over nine months,21kgs] (9 months) My progress over nine months,,,,,
+image_287.jpg,M/21/6’0” [247 > 204 = 43lbs] Weight Loss Progress,M,21,6’0”,204.0,27.67,Overweight
+image_288.jpg,F/33/5'1 [169lbs > 158lbs = 11lbs] lost fat and now body recomping,F,33,5'1,158.0,29.85,Overweight
+image_289.jpg,M/34/5’8”[340lbs>270lbs=70lbs weightloss] my first weight loss journey and loving it❤️,M,34,5’8”,270.0,52.73,Obese
+image_290.jpg,"F/30/5'7"" [250 > 214 = 36 lbs] (10 months) Will need new scrubs soon",F,30,"5'7""",214.0,33.52,Obese
+image_291.jpg,M/20/5’11 [164lbs > 185lbs] 2 years and 10 month’s progress,M,20,5’11,,,Obese
+image_292.jpg,F/30/5’4 [193 >173=20 lbs] I’ve been focusing on my core and loving the results.,F,30,5’4,173.0,29.7,Overweight
+image_293.jpg,"F/31/5'7"" [240 lbs > 171 lbs = 69 lbs] Took me 3 years + 1 month to hit this milestone lol",F,31,"5'7""",171.0,26.78,Overweight
+image_294.jpg,F/21/5’9 [245lbs > 198lbs = 47lbs] about 1 1/2 years:),F,21,5’9,198.0,29.24,Overweight
+image_295.jpg,F/31/150cm [73kg > 61.5kg = 11.5kg Lost] (29 months),F,31,150cm,,,Obese
+image_296.jpg,F/18/5'4 [165lbs>155lbs=10lbs] face gains 😎,F,18,5'4,155.0,26.61,Overweight
+image_297.jpg,"M/20/5'8"" [278lbs > 175bs = 103lbs]Weight loss",M,20,"5'8""",,,Obese
+image_298.jpg,M/18/180 [78kgs>82] been almost 10months between these 2pics,M,18,180,,,Obese
+image_299.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_300.jpg,"F/30/5'7"" [299Ibs > 218Ibs = 88Ibs] (12 months) hard yards)",F,30,"5'7""",,,Obese
+image_301.jpg,M/45/5’9 [229 > 182] 1 year Ozempic + CrossFit,M,45,5’9,,,Obese
+image_302.jpg,"F/28/5'8"" [248lbs > 221lbs = 28lbs] Weight loss progress",F,28,"5'8""",221.0,33.6,Obese
+image_303.jpg,"F/36/5’5” [100lbs<128lbs] 15 years. A story of gain, then loss, then gains with lifting + ongoing recomp",F,36,5’5”,,,Obese
+image_304.jpg,M/29/5’11” [365lbs > 197lbs = 168lbs] Weight Loss Progress,M,29,5’11”,197.0,38.47,Obese
+image_305.jpg,82lbs] (3 years) body recomp!!!,82lbs] (3 years) body recomp!!!,,,,,
+image_306.jpg,F/24/5’5” [200 > 158 = 42lbs] (15 months),F,24,5’5”,158.0,30.86,Obese
+image_307.jpg,M/29/6'2 [114kg>89.4kg or 55 ish pounds] weightloss in 5 months,M,29,6'2,,,Obese
+image_308.jpg,8 wks,8 wks,,,,,
+image_309.jpg,F/23/5’4” [204 lbs > 141 lbs = 63 lbs] (6 months) Still technically overweight but finally feeling strong again!,F,23,5’4”,141.0,27.54,Overweight
+image_310.jpg,"M/37/5'11 [235lbs>205lbs=30lbs] (4 years) Many ups and downs but happy with where I am at!! First photo was yesterday, second was when my son was born 4 years ago!",M,37,5'11,205.0,28.59,Overweight
+image_311.jpg,M/27/6' [175.2lbs > 170lbs = 5.2lbs] (1ish month) Progress week by week over the last 29 days,M,27,6',170.0,23.06,Normal weight
+image_312.jpg,F/21/5’2” [156> 125lbs = 31lbs] Weight loss progress! I can’t believe I did it !,F,21,5’2”,125.0,24.41,Normal weight
+image_313.jpg,F/34/5”3 [280>195=85] 2 years. Now I don’t take up the whole mirror lol,F,34,5”3,195.0,,Obese
+image_314.jpg,>163=57] 3yrs,>163=57] 3yrs,,,163.0,,
+image_315.jpg,M/23/6’0” [190>175 = 15 lbs] (4 months) New here. Year six bulk ; cut.,M,23,6’0”,175.0,23.73,Normal weight
+image_316.jpg,"F/23/5'4 [242>173=69lbs] 1yr, 5 months",F,23,5'4,173.0,29.7,Overweight
+image_317.jpg,same gym top one month apart,same gym top one month apart,,,,,
+image_318.jpg,Acadia National Park. 2nd…,Acadia National Park. 2nd…,,,,,
+image_319.jpg,"M/34/5'8"" [222lbs > 202lbs = 20lbs] Lost",M,34,"5'8""",202.0,30.71,Obese
+image_320.jpg,F/34/5’1” [322 > 174 = 148] About 29 lbs to go!,F,34,5’1”,174.0,33.98,Obese
+image_321.jpg,"M/28/6’0” [147 > 180 = 33lbs gained] (30 months) From underweight with a bad case of body dysmorphia and depression to a healthy weight with mild body dysmorphia. It ain’t much, but it’s nice to take a moment and reflect.",M,28,6’0”,180.0,24.41,Normal weight
+image_322.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_323.jpg,"X/40/5'6"" [300 > 247 = 53lbs] (11 months) 75 lbs to go. Face gains!",X,40,"5'6""",247.0,39.87,
+image_324.jpg,238lbs] Body recomposition and overcoming anxiety disorders.,238lbs] Body recomposition and overcoming anxiety disorders.,,,,,
+image_325.jpg,>61kg=2kg gain](8 ish months) (Bicep flex transformation),>61kg=2kg gain](8 ish months) (Bicep flex transformation),,,,,
+image_326.jpg,"F/27/5’11 [300 lbs > 180 lbs = 120 lbs lost] (1.5 years and counting; in the context of PCOS, combination of IF/keto/fitness)",F,27,5’11,180.0,25.1,Overweight
+image_327.jpg,F/31/5’6” [235>205=30lbs] I’m so proud of this progress so far!,F,31,5’6”,205.0,40.04,Obese
+image_328.jpg,M/54/5’7 [350 Ibs to 245 lbs] Weight loss and exercise,M,54,5’7,,,Obese
+image_329.jpg,F/30/5’5 [107lbs < 147lbs = 40 pounds gained. ] The top pics are from 2018 bottom pics have been taken over the past week.,F,30,5’5,,,Obese
+image_330.jpg,"F/32/5'5""[322>219=103lbs] down 103lbs in the last 2 years but i'm struggling...",F,32,"5'5""",219.0,36.44,Obese
+image_331.jpg,M/23/6ft [145lbs > 172lbs] 6 months of consistent gym and 6 of calisthenics with half year gap in between. Pretty happy with my progress :) Hard work pays off,M,23,6ft,,,Obese
+image_332.jpg,166 = 102] 3 years,166 = 102] 3 years,,,,,
+image_333.jpg,"F/31/5'8"" [159lbs > 128lbs = 31lbs] (2 years) Achieved one of my best forms in 2023 in August (4th from the left), had an over intake of sweets in the winter (last), on the way to burn them off !",F,31,"5'8""",128.0,19.46,Normal weight
+image_334.jpg,F/21/5’3” [265~lbs>185lbs=80lbs lost](6 months) under 200 for the first time in 6 years!,F,21,5’3”,185.0,36.13,Obese
+image_335.jpg,70lbs] always use the first pic as my “before” pic and unintentionally wore the same outfit recently! About two years difference here :),70lbs] always use the first pic as my “before” pic and unintentionally wore the same outfit recently! About two years difference here :),,,,,
+image_336.jpg,"F/38/5""4 [220 > 210 = 10lb] (35 days) Recently got help for my alcoholism and I'm 35 days sober. Bloated Face and redness gone. Just an extra perk if anyone else is thinking about quitting.",F,38,"5""4",210.0,,Obese
+image_337.jpg,255=138lbs lost] (2 ish years idk) Embracing more bright colors and my body,255=138lbs lost] (2 ish years idk) Embracing more bright colors and my body,,,,,
+image_338.jpg,"M/32/6” [477lb > 276lb = 201lb] 16 Months. New goals to be made, thank you everyone for the motivation!",M,32,6”,,,Obese
+image_339.jpg,F/21/5'7 [195lbs > 170lbs = 25lbs] (6 moths) My friend recommended this community:) So grateful for the last few months! Finally working with a provider I trust and its working!!,F,21,5'7,170.0,26.63,Overweight
+image_340.jpg,"M/29/5’11” [227>168=59] 2 year difference. Side profile going crazy comparatively, if I do say so myself.",M,29,5’11”,168.0,32.81,Obese
+image_341.jpg,"ish months) I lost almost 14 lbs since my last progress pic...same mirror, totally different me.","ish months) I lost almost 14 lbs since my last progress pic...same mirror, totally different me.",,,,,
+image_342.jpg,M/21/5’8” [60>48kg] 8 months progress,M,21,5’8”,,,Obese
+image_343.jpg,F/32/5'9 [300>205=95 lbs] (5 years) Loving my transformation 🖤,F,32,5'9,205.0,30.27,Obese
+image_344.jpg,"M/31/5'10"" [353lbs> 216 = 137lbs] no one tells you about the crows feet you get from weight loss in your face 😂",M,31,"5'10""",216.0,30.99,Obese
+image_345.jpg,125 = 60lbs!!] same pose 2 years later :),125 = 60lbs!!] same pose 2 years later :),,,,,
+image_346.jpg,"F/29/5’3” [290ish>212=78ish, 7 years] Slow and steady means you sometimes don’t appreciate the changes",F,29,5’3”,212.0,41.4,Obese
+image_347.jpg,"M/29/6'1 [265lbs > 205lbs = 60lbs] (3 years) Could I have had more progress in this time? Sure. Is consistency inconsistent? Yes. Life happens, but I'm still trucking along.",M,29,6'1,205.0,27.05,Overweight
+image_348.jpg,F/19/164cm [49kg > 52 kg = 3kg] (1 year) This is how climbing transformed my arms!,F,19,164cm,52.0,,Obese
+image_349.jpg,F/31/5’4” [200>178= 22 pounds lost](9 months) working to get better and better everyday 😍,F,31,5’4”,178.0,34.76,Obese
+image_350.jpg,M/21/6’ [275 lbs>230 lbs= 45lbs lost] (almost 2 years on and off) Im happy with the face gains so far.,M,21,6’,230.0,31.19,Obese
+image_351.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_352.jpg,"235lbs, gained 15lbs] started to take the gym seriously.","235lbs, gained 15lbs] started to take the gym seriously.",,,,,
+image_353.jpg,44] (8 months on and off) Not there yet but I think there’s some difference 🤷🏻‍♀️ this page helped me stay motivated so giving back to it :),44] (8 months on and off) Not there yet but I think there’s some difference 🤷🏻‍♀️ this page helped me stay motivated so giving back to it :),,,,,
+image_354.jpg,F/24/5’8” [125lbs > 180lbs = 55lbs] Weight gain progress,F,24,5’8”,180.0,35.15,Obese
+image_355.jpg,"37lb]. So excited, I even posed!","37lb]. So excited, I even posed!",,,,,
+image_356.jpg,250.1lbs],250.1lbs],,,,,
+image_357.jpg,"M/27/5'6"" [150lbs < 161lbs = 11lbs gained]. Same pants, 6 months apart",M,27,"5'6""",,,Obese
+image_358.jpg,180lbs = 19lbs] (1 year) face gains!,180lbs = 19lbs] (1 year) face gains!,,,,,
+image_359.jpg,119lbs] Started in June 2022 and hit my goal weight in January 2024. Now to maintain.,119lbs] Started in June 2022 and hit my goal weight in January 2024. Now to maintain.,,,,,
+image_360.jpg,F/28/5'4 [208>158lbs = 50lbs loss] (10 months) Unbigged my back!,F,28,5'4,158.0,27.12,Overweight
+image_361.jpg,"F/33/5'7"" [219 >188 = lbs] 31lbs down since June, another 15lbs to go!",F,33,"5'7""",188.0,29.44,Overweight
+image_362.jpg,F/32/5'9 [300>210=90 lbs] (3 years) On a long journey but taking life one day at a time,F,32,5'9,210.0,31.01,Obese
+image_363.jpg,"M/30/6'2"" [340ish lbs > 285 lbs = ~55 lbs] (5 years) In the left picture, I was already down from my highest weight of 393 lbs. Not the hugest difference (imo) but stumbling across that pic made me realize how far I've come since starting.",M,30,"6'2""",285.0,36.59,Obese
+image_364.jpg,F/27/4’10 [145>117=28 lbs.] I am turning 28 on Monday and feeling ok about it after my friend sent me the first pic at 25.,F,27,4’10,117.0,24.45,Normal weight
+image_365.jpg,M/18/6’2” [143lbs > 187lbs = 44lbs gained] (2 years) First gym pic vs Recent one,M,18,6’2”,187.0,25.36,Overweight
+image_366.jpg,F/29/5’4” [190lbs > 135lbs = 55lbs] (2 years so far) Sometimes it’s hard to be able to see the difference until I do a side by side comparison,F,29,5’4”,135.0,26.37,Overweight
+image_367.jpg,F/28/5’2” [160 > 152 = 8 lbs] Face gains!,F,28,5’2”,152.0,29.69,Overweight
+image_368.jpg,"M/32/6'1'' [352lbs > 282lbs = 70lbs] One year change, some face gains.",M,32,6'1'',282.0,37.21,Obese
+image_369.jpg,2023.,2023.,,,,,
+image_370.jpg,F/29/5'9 [277lbs > 160lbs = 117lbs lost] With some alchemy at some point,F,29,5'9,160.0,23.63,Normal weight
+image_371.jpg,F/26/5’7 [175>152=23lbs] Didn’t realize how noticeable the difference was until I decided to try on a bathing suit from last summer,F,26,5’7,152.0,23.81,Normal weight
+image_372.jpg,"M/30/5'9"" [163lbs < 176lbs = 13lbs] 3 month bulk progress",M,30,"5'9""",,,Obese
+image_373.jpg,"M/18/5""11 [165lbs]>[183.4lbs]",M,18,"5""11",,,Obese
+image_374.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_375.jpg,"F/30/5’4 [72kg>65kg] 6 months to loose the initial weight. I’ve then maintained for over a year and a half, improving my muscle mass and body composition.",F,30,5’4,,,Obese
+image_376.jpg,50] changed the diet and pretty much only cardio for a few months.,50] changed the diet and pretty much only cardio for a few months.,,,,,
+image_377.jpg,"M/38/5'8"" [231lbs > 165lbs = 66lbs] (6 months) I did it! I kicked depression and stress eating in the butt",M,38,"5'8""",165.0,25.09,Overweight
+image_378.jpg,"M/33/6'2 [177lb s > 206lbs = 29lbs] (3.5 years) Gym and hair gains. I always wanted to be built like Solid Snake. Yes, I ate the dogs for their delicious protein.",M,33,6'2,206.0,26.45,Overweight
+image_379.jpg,M/35/6”2 [225lbs > 181lbs = 44lbs lost] (11 months of working out.),M,35,6”2,181.0,,Obese
+image_380.jpg,"F/32/5’9” [400lbs > 230lbs = 170lbs lost] Still need to lose the last 30 or 40 pounds, but excited to be so much closer to my end goal!",F,32,5’9”,230.0,44.92,Obese
+image_381.jpg,"). I’m beyond excited and ready to lose the final 50. 9 more lbs and I’ll be in Onederland! Eeeeeek. You’re worth it, keep going. Best of luck to…","). I’m beyond excited and ready to lose the final 50. 9 more lbs and I’ll be in Onederland! Eeeeeek. You’re worth it, keep going. Best of luck to…",,,,,
+image_382.jpg,F/36/5 5” [148lb<127lb]21lb weight loss progress,F,36,5,,,Obese
+image_383.jpg,F/22/5'4 [128 >106 = 22lbs] Weight gain,F,22,5'4,106.0,18.19,Underweight
+image_384.jpg,189= 56lb] (1 year) Face Gains!,189= 56lb] (1 year) Face Gains!,,,,,
+image_385.jpg,M/28/5’10”[138lb s > 178lbs = 40lbs] (5 years) From Skinny to Fit definitely had ups and downs in this journey.,M,28,5’10”,178.0,34.76,Obese
+image_386.jpg,F/31/5’5” [212lbs > 178lbs = 34lbs] Weight loss progress,F,31,5’5”,178.0,34.76,Obese
+image_387.jpg,F/33/5'1 [154 > 120= 34 lbs] (4 months) thank God for muscle memory,F,33,5'1,120.0,22.67,Normal weight
+image_388.jpg,"F/32/5'9"" [348 > 285 = 63 lbs] Orthodontic treatment progress!",F,32,"5'9""",285.0,42.09,Obese
+image_389.jpg,M/18/6'0 [180lbs > 135lbs = 45lbs] (5 months) I do feel a little better about myself. Is it time ro bulk? Im insecure/scared about gaining weight again.,M,18,6'0,135.0,18.31,Underweight
+image_390.jpg,F/30/5’5” [280 > 186= 94 lbs] I have collarbones now?,F,30,5’5”,186.0,36.33,Obese
+image_391.jpg,157 lb] (9 Months) My WLS has now had a baby. I fit into XL and even the occasional size L!,157 lb] (9 Months) My WLS has now had a baby. I fit into XL and even the occasional size L!,,,,,
+image_392.jpg,M/22/6’1” [198lbs > 231lbs = 33lbs] (9 months) Thoughts?,M,22,6’1”,231.0,31.33,Obese
+image_393.jpg,"185 = 50] down 50lbs in the last year, 20(ish) more to go!!","185 = 50] down 50lbs in the last year, 20(ish) more to go!!",,,,,
+image_394.jpg,F/27/5'1[118<123= 5lb gained] (6 months),F,27,5'1,,,Obese
+image_395.jpg,F/28/5’10” [340lbs > 269lbs = 71lbs] [5 months],F,28,5’10”,269.0,52.53,Obese
+image_396.jpg,42lb] (1.25 years) Jawline progress! Only in this last 10 lb or so have I started noticing a visible difference. It’s so exciting and motivating!,42lb] (1.25 years) Jawline progress! Only in this last 10 lb or so have I started noticing a visible difference. It’s so exciting and motivating!,,,,,
+image_397.jpg,"M/28/6'4"" [265lbs > 245lbs = 20lbs] (1 month and 1 week) Making progress!",M,28,"6'4""",245.0,29.82,Overweight
+image_398.jpg,"M/30/6'1"" [320lbs > 245lbs = 75lbs lost](one year difference) The difference one year of consistency can do. Down 225lbs overall over 2 years.",M,30,"6'1""",245.0,32.32,Obese
+image_399.jpg,M/26/5’11” [285lbs > 205lbs = 80 lbs] 2 years and 8 months of consistency.,M,26,5’11”,205.0,40.04,Obese
+image_400.jpg,F/25/5’0” [228>208=20 lbs lost] 3 months difference! Can’t notice much change in the body but my face is definitely getting slimmer,F,25,5’0”,208.0,40.62,Obese
+image_401.jpg,> 220lbs=40lbs] Just over three years of progress!,> 220lbs=40lbs] Just over three years of progress!,,,220.0,,
+image_402.jpg,F/28/5'3[221>196= 25 lost] (5 months) Honestly Idk,F,28,5'3,196.0,34.72,Obese
+image_403.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_404.jpg,M/40/6'[600lbs>297.4lbs = 302.6lbs] 14 years of ups and downs...,M,40,6',,,Obese
+image_405.jpg,"F/30/5'8"" [320lbs > 225lbs = 95lbs] (6.5 months) Face gains",F,30,"5'8""",225.0,34.21,Obese
+image_406.jpg,198.,198.,,,,,
+image_407.jpg,M/22/6’1” [255 lbs > 180 lbs = 75 lbs] 1.5 YR,M,22,6’1”,180.0,24.41,Normal weight
+image_408.jpg,F/26/5’9 [262lbs>62lbs=200lbs] work in progress!,F,26,5’9,62.0,9.16,Underweight
+image_409.jpg,"M/32/5’8 210lbs > 160lbs = 50lbs after 84 days in a coma, getting better every day, legally blind now but in the best shape of my life",M,32,5’8,160.0,24.33,Normal weight
+image_410.jpg,F/28/5’7 [176.36lbs > 152.119lbs = 24.241lbs] what 4 months of 16:8 intermittent fasting did to my body,F,28,5’7,,,Obese
+image_411.jpg,F/26/5’8” [240lbs > 188lbs = 52lbs] Face progress over about 8 months,F,26,5’8”,188.0,36.72,Obese
+image_412.jpg,59lbs] Took me 1.5 years and I went down from 45% to 23% Body Fat,59lbs] Took me 1.5 years and I went down from 45% to 23% Body Fat,,,,,
+image_413.jpg,"F/38/5’7” [278>165=113 lbs lost] Here’s to two years of maintaining the weight loss and 1,070 days of being free from binge eating!",F,38,5’7”,165.0,32.22,Obese
+image_414.jpg,215lbs = 135lbs lost] 8 month difference!,215lbs = 135lbs lost] 8 month difference!,,,,,
+image_415.jpg,"F/25/5'4"" [232 > 212 = 20lbs] (6 months) Can you guys see a difference?",F,25,"5'4""",212.0,36.39,Obese
+image_416.jpg,F/36/5’8” [17lbs > 128lbs = 11lbs gained] (6 months) same shorts 6 months apart,F,36,5’8”,128.0,25.0,Overweight
+image_417.jpg,M/27/6’2” [226<243=17 lbs gained] I’ve been bulking/recomping for the last 6 months. Cut starts Feb. 1st!,M,27,6’2”,,,Obese
+image_418.jpg,197=29] Tomorrow marks 90 days since I started! Did this all on my own :),197=29] Tomorrow marks 90 days since I started! Did this all on my own :),,,,,
+image_419.jpg,>216= 4lbs]One Month Down,>216= 4lbs]One Month Down,,,216.0,,
+image_420.jpg,F/19/5’7 [112 > 132 = 20lb gained] (24 months) still fit into this dress tho,F,19,5’7,132.0,20.67,Normal weight
+image_421.jpg,F/39/5’7” [275 > 85 = 190lbs ] (22 months),F,39,5’7”,85.0,16.6,Underweight
+image_422.jpg,"> 148lb = 57lb] (4 years) It has been a consistent work in progress. I will be 29 this year, and feel better than I EVER HAVE!!!","> 148lb = 57lb] (4 years) It has been a consistent work in progress. I will be 29 this year, and feel better than I EVER HAVE!!!",,,,,
+image_423.jpg,M/21/5’11” [220lbs>145lbs=75lbs] weight loss transformation,M,21,5’11”,145.0,28.32,Overweight
+image_424.jpg,"M/22/6'0""[121lbs > 172lbs = 51lbs] bulking is fun",M,22,"6'0""",172.0,23.33,Normal weight
+image_425.jpg,"M/16/5'10 (243>175=68lbs, 1 year) Looking back, I've come a LONG way",M,16,5'10,175.0,25.11,Overweight
+image_426.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_427.jpg,"F/41/5'5"" [247lbs > 199lbs = 48lbs] 5.5 months progress with hormone fasting",F,41,"5'5""",199.0,33.11,Obese
+image_428.jpg,F/29/5’10 [218.6 lbs > 177.6 lbs = 41 lbs] 17 months,F,29,5’10,,,Obese
+image_429.jpg,"F/36/5'6"" [273lbs>223lbs=50lbs] 18 months progress",F,36,"5'6""",223.0,35.99,Obese
+image_430.jpg,M/26/5’8” [276lbs > 180lbs = 96lbs] Weight loss progress,M,26,5’8”,180.0,35.15,Obese
+image_431.jpg,2024,2024,,,,,
+image_432.jpg,"F/30/5'6 [198lbs > 162lbs = 35lbs] (6 months, ongoing)",F,30,5'6,162.0,26.15,Overweight
+image_433.jpg,M/27/5’9”[280>205=75] 2019 to 2024,M,27,5’9”,205.0,40.04,Obese
+image_434.jpg,"M/26/6'1"" [274lbs > 232lbs = 42lbs] Weight loss progress exactly 3 months today and exactly 20KG down give or take",M,26,"6'1""",232.0,30.61,Obese
+image_435.jpg,122] (11 months) face gains,122] (11 months) face gains,,,,,
+image_436.jpg,F/35/5’4” [265lbs > 170lbs = 96lbs] Weight loss progress,F,35,5’4”,170.0,33.2,Obese
+image_437.jpg,128] 10lbs (8 months),128] 10lbs (8 months),,,,,
+image_438.jpg,"F/28/5’3"" [180lbs > 145lbs = 35 lbs] in 13 months of dedication to a healthier diet!",F,28,"5’3""",145.0,25.69,Overweight
+image_439.jpg,"F/30/5'8"" [307lbs > 187lbs = 120lbs down] on my birthday in 2022 vs on my birthday in 2024. I was 280 in the before pics and had already lost 30 pounds.",F,30,"5'8""",187.0,28.43,Overweight
+image_440.jpg,">170=55 pounds lost] Face progress. Jawline still weak, 10 more pounds to go for goal. Any advice appreciated.",">170=55 pounds lost] Face progress. Jawline still weak, 10 more pounds to go for goal. Any advice appreciated.",,,170.0,,
+image_441.jpg,"F/43/5'10""[335lbs>220lbs=115lbs down][7 Months]",F,43,"5'10""",220.0,31.57,Obese
+image_442.jpg,F/32/5'7 [227lbs>132lbs=95lbs down] [2 years],F,32,5'7,132.0,20.67,Normal weight
+image_443.jpg,"M/22/6'2"" [300lbs>220lbs] [aprox. 2years]",M,22,"6'2""",,,Obese
+image_444.jpg,"M/26/6'2"" [330lbs > 240lbs = 90lbs] Been overweight my entire life and just now getting a glimpse at what I might actually look like underneath",M,26,"6'2""",240.0,30.81,Obese
+image_445.jpg,> 132lbs = +30 lbs](3.5 years),> 132lbs = +30 lbs](3.5 years),,,132.0,,
+image_446.jpg,"150 = 105 lbs] About a year of maintenance + recomp since my last post. Sometimes I need a reminder of where it all started. Lots of trial and error, but you can’t fail if you never give up 🙌","150 = 105 lbs] About a year of maintenance + recomp since my last post. Sometimes I need a reminder of where it all started. Lots of trial and error, but you can’t fail if you never give up 🙌",,,,,
+image_447.jpg,F/42/5.5[85Kg>73Kg=12Kg] 11 months progress,F,42,5.5,,,Obese
+image_448.jpg,"F/34/5'4"" [390lbs > 280lbs = 110lbs] (Almost two years) I have always struggled with my weight. At my biggest I was at around 425lbs. The pictures are from March 2022 to January 2024, wearing the same dress!",F,34,"5'4""",280.0,48.06,Obese
+image_449.jpg,M/27/6'5 [95kg > 110kg= 15kg gained] started doing more powerlifting and enjoying it,M,27,6'5,,,Obese
+image_450.jpg,> 70kg 17kg gained] (1 year),> 70kg 17kg gained] (1 year),,,,,
+image_451.jpg,last night,last night,,,,,
+image_452.jpg,54] we all have that one pic that a friend took…,54] we all have that one pic that a friend took…,,,,,
+image_453.jpg,"M/32/171cm [120kg>79kg] (8 Years of ""unhealthy"" weightloss, 2 Years of bodybuilding and good nutrition) Story in comments...",M,32,171cm,,,Obese
+image_454.jpg,250] 67 lbs. 6 months.,250] 67 lbs. 6 months.,,,,,
+image_455.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_456.jpg,F/18/5’8” [240 > 175 = 65lbs] Still shocked about my progress,F,18,5’8”,175.0,34.18,Obese
+image_457.jpg,"F/24/5’9[310 > 217 = 93 lbs lost] the picture of me on the right is from mid 2021. I have been on and off healing my body and it helps so much to look back, seeing how far I’ve come. Theres a lot of progress I’ve made internally too!!",F,24,5’9,217.0,32.04,Obese
+image_458.jpg,50lbs] (1yr5mon) Face gains,50lbs] (1yr5mon) Face gains,,,,,
+image_459.jpg,"F/32/5'6.75"" [200lbs > 173lbs = 27lbs] My bulk to my cut",F,32,"5'6.75""",173.0,33.79,Obese
+image_460.jpg,"F/33/5’6 [356 lbs > 145 lbs = 210 lbs lost] almost 3 years journey. CICO, exercise & hardest work of my life. Currently working on muscle building.",F,33,5’6,145.0,23.4,Normal weight
+image_461.jpg,"M/32/5’10” [207 lbs > 172 lbs = 35 lbs] (12 months) Started proper weight loss just 1 year ago, i have my lowest weight in over 12 years, my total cholesterol is within normal levels after 8+ years. A six pack is my goal for this year.",M,32,5’10”,172.0,33.59,Obese
+image_462.jpg,"F/29/5'3"" [315lbs > 175lbs = 140lbs] Unusual progress pics, but during my most recent comparison set I noticed my ear lost fat. Who knew?!",F,29,"5'3""",175.0,31.0,Obese
+image_463.jpg,F/26/5’6.5” [114kg>79kg = 35kg] January 2022 vs January 2024 :),F,26,5’6.5”,,,Obese
+image_464.jpg,F/38/5’7” [236lbs > 173lbs = 63 lbs] weight loss and shaping my body.,F,38,5’7”,173.0,33.79,Obese
+image_465.jpg,F/30/5’9” [350lbs > 270lbs = 80lbs] (12 months) Dysmorphia is a weird thing man,F,30,5’9”,270.0,52.73,Obese
+image_466.jpg,M/24/205 [300 > 200] (1 year),M,24,205,,,Obese
+image_467.jpg,F/29/5’6 [164 > 142 =22lbs] updated weight loss!,F,29,5’6,142.0,22.92,Normal weight
+image_468.jpg,255 =] (2 months) trying to body recomp. Is it working?,255 =] (2 months) trying to body recomp. Is it working?,,,,,
+image_469.jpg,2kgs/5lbs] (8 months) Similar weight but different shape! Had a break from the gym for 4 months in between too.,2kgs,5lbs],,,,
+image_470.jpg,F/29/5ft10 [300lb > 170= 130lbs] 1.5 year. I was looking at old pics and didn't recognize my face at all. Crazy how much the face changes! Proud of both girls though. The left went through hell for years. The right conquered it.,F,29,5ft10,170.0,,Obese
+image_471.jpg,M/39/6' [325>293=32lb] [12months] First two pics are exactly one year apart. The scale loss doesn't even come close to representing how good I feel.,M,39,6',293.0,39.74,Obese
+image_472.jpg,"F/37/5'5"" [249lbs>194lbs = 55lbs] (1 year) proud of myself.",F,37,"5'5""",194.0,32.28,Obese
+image_473.jpg,M/28/5’5” [120 > 145 lbs = 25 lbs gained] 2.5 year progress,M,28,5’5”,145.0,28.32,Overweight
+image_474.jpg,F/36/5’5”[216.3lbs>118lbs=98.3lbs] (one year anniversary of my “day 1”),F,36,5’5”,118.0,23.05,Normal weight
+image_475.jpg,"M/19/5’6”[205lbs>138lbs=67lbs] {9 months} decided enough was enough so i started hitting the gym, best choice of 2023.",M,19,5’6”,138.0,26.95,Overweight
+image_476.jpg,F/25/5’2 [175lbs > 123lbs = 52lbs] I looked like Raven Symoné on That’s So Raven when she had an allergic reaction,F,25,5’2,123.0,22.5,Normal weight
+image_477.jpg,F/43/5’6”[223lbs>150lbs=73lbs] (11 months),F,43,5’6”,150.0,29.29,Overweight
+image_478.jpg,"M/19/186cm, [215lbs > 190lbs = 25lbs] Weirdly enough still feeling skinny fat cause of love handles",M,19,"186cm,",190.0,,Obese
+image_479.jpg,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,Tham gia kênh reddit của Gamelade để cập nhật thông tin game mới sớm hơn cả GameK nhé!,,,,,
+image_480.jpg,F/22/5’11” [235lbs > 175lbs = 60lbs] February 2023 to January 2024! :),F,22,5’11”,175.0,34.18,Obese
+image_481.jpg,F/21/5'5 [180 > 135 lbs] 12 months!,F,21,5'5,135.0,22.46,Normal weight
+image_482.jpg,F/21/5'4 [79lbs to 115lbs] 14 month weight gain n gym,F,21,5'4,,,Obese
+image_483.jpg,F/21/5’5 [230lbs> 180lbs = 50lbs] Weights Loss Progress,F,21,5’5,180.0,29.95,Obese
+image_484.jpg,F/20/5’8 [220 > 150 = 70 pounds] (10 months),F,20,5’8,150.0,22.81,Normal weight
+image_485.jpg,F/24/5’9.5 [225 > 185 = 40] (Like 2 years) Face to face change,F,24,5’9.5,185.0,36.13,Obese
+image_486.jpg,"F/19/5""0"" [164lbs>120lbs] (18 months) Weight loss + Body recomposition",F,19,"5""0""",,,Obese
+image_487.jpg,13 month progress,13 month progress,,,,,
+image_488.jpg,90](27 Months),90](27 Months),,,,,
+image_489.jpg,M/25/6’3 [175lbs > 211lbs = 36lbs] 2 year bulk difference,M,25,6’3,211.0,26.37,Overweight
+image_490.jpg,"F/29/5'3"" [315lbs > 177lbs = 138lbs] It's been a while since I've updated, and I used to use a different account, but I'm finally posting more progress. It's been 2 years and almost 2 months since I started this journey. I can't believe how far I've come. 💜",F,29,"5'3""",177.0,31.35,Obese
+image_491.jpg,F/26/5’8” [282>220= 62 lb loss] (8 months CICO),F,26,5’8”,220.0,42.97,Obese
+image_492.jpg,F/25/5'8 [95kg>62kg=33kg] bday 2020 to bday 2024!,F,25,5'8,,,Obese
